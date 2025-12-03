@@ -170,3 +170,20 @@ eac2a694-d297-4693-93e5-ea0ce3e4fecc,1TB 7.2k RPM NLSAS,b1359a9f-55f1-4f59-938f-
 ef59dd35-b597-4c6e-8fb2-8272435f0c60,4TB 7.2k RPM NLSAS,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,36143046-92b6-4b96-a875-2c143a69d772,931.3,true,false,HD 4TB,false
 fe1f1630-bc51-40dc-b2e3-c6630b527de8,Best Sellers Varieties Curated Collection,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,20592bab-2ce6-4168-832e-8b92be8dd579,121.42,true,false,COF-OT-1,false
 fe4bddcc-0b48-45d3-a9f5-0997995e6546,Business Plus Cloud Storage,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,648f32e7-9dc8-4357-80e6-033db3c40fd2,800.0,true,false,CS3,false
+038d150b-2937-44d9-83e2-b349b615d863,"Battery, High Capacity",b4b97aa1-6f59-4cec-8286-2cf2ed416c24,df0df29b-f2f7-47d3-9f7e-9ea1cd81014e,2500.0,true,true,B-1000,false
+04d3ab45-e10f-4f06-aad7-4c3b366eba17,Large Turbine,b4b97aa1-6f59-4cec-8286-2cf2ed416c24,7a826b7e-1f2b-4129-9af6-8e52d3277440,10000.0,true,true,A-1000,false
+14519ddd-5126-44ca-a780-1882a70a6d32,Maintenance Contract,b4b97aa1-6f59-4cec-8286-2cf2ed416c24,8ca6b261-7887-414e-b9f7-3fe106ac941d,0.0,true,true,M-1000,false
+2f5a3229-e812-45bb-995f-444e25be7afe,Remote Monitoring Subscription,b4b97aa1-6f59-4cec-8286-2cf2ed416c24,dfc8ff15-502c-4c58-922e-82d743ed5f66,800.0,true,true,R-100,false
+2f8e71e7-7741-4a94-bbbc-8dadc32ab4bf,Performance Optimization,b4b97aa1-6f59-4cec-8286-2cf2ed416c24,40e74082-78ba-4b7e-9f3a-bf6cad99d360,500.0,true,true,L-100,false
+3836f167-1ffe-4a46-a0ac-66d7c5350841,"Battery, Low Capacity",b4b97aa1-6f59-4cec-8286-2cf2ed416c24,feaf9bce-1fd8-49dc-bcfb-2a4e8e99dfe1,1500.0,true,true,C-45678,false
+8681d6e3-7d15-4407-b6ff-42470804b2e2,Wind Turbine Exploded Parts,b4b97aa1-6f59-4cec-8286-2cf2ed416c24,a2e54fcf-6888-4958-ae9b-aa19ca019aa7,0.0,true,false,WT-EXP100,false
+9bbb0b67-e96a-4591-9c4c-6287300c96e6,Installation Services,b4b97aa1-6f59-4cec-8286-2cf2ed416c24,7ee10cc9-e534-4ca4-b11e-0ea72ce0492c,1100.0,true,true,INST-100,false
+9d6f6ce5-2a75-4d46-a45c-db3a23bc3846,Power Inverter,b4b97aa1-6f59-4cec-8286-2cf2ed416c24,cc9c4320-d09b-4a21-a883-afa1163bbf71,2500.0,true,false,H-36378,false
+bc62a6a6-3876-4265-8162-a833b075f12e,Connector Cables,b4b97aa1-6f59-4cec-8286-2cf2ed416c24,73b72920-ff99-4944-99df-60472564eff1,250.0,true,true,C-300,false
+d0a9b192-a6b0-4aac-9822-40309816bc74,Small Turbine,b4b97aa1-6f59-4cec-8286-2cf2ed416c24,27a1e8ed-4b28-4123-a103-c8905993c885,6000.0,true,true,A-100,false
+d2bee3e3-f2f2-4e07-ab9d-d5db30a0d3b1,Product B,b4b97aa1-6f59-4cec-8286-2cf2ed416c24,303fee31-ab88-49ac-ba42-e13a983fba36,999.0,true,true,46372818,false
+db5cbf5d-fd80-4c77-85a0-7ef144892d6e,Product A,b4b97aa1-6f59-4cec-8286-2cf2ed416c24,1c10d8a1-4599-459d-bd6e-c48cb40636a4,599.0,true,true,46372819,false
+df664f76-3631-43ca-8c32-14ea1f578671,Labor,b4b97aa1-6f59-4cec-8286-2cf2ed416c24,fabfca28-7c3e-4f26-ac84-1706d56a9edb,150.0,true,true,L-1000,false
+e749267b-122f-44ab-9275-c849ece1c322,Product C,b4b97aa1-6f59-4cec-8286-2cf2ed416c24,139820c0-930f-4610-9c79-4f8c0718b1df,1499.0,true,true,46372817,false
+ead3dd17-2a5a-4a32-9959-c5a08285b6de,Energy Meter,b4b97aa1-6f59-4cec-8286-2cf2ed416c24,d7f87947-b1cd-4f4c-a0fc-4e0f469d29a3,500.0,true,true,E-1000,false
+f9a442fd-b307-491b-b181-ef5b110cb135,Starter Kit,b4b97aa1-6f59-4cec-8286-2cf2ed416c24,d201fce2-ddf7-48dc-aed7-322293dcbda8,12500.0,true,true,A-5000,false
