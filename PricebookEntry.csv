@@ -120,3 +120,53 @@ e218a4f3-baa9-4517-b281-1d8166835179,Performance Optimization,8f60aaa2-6afc-4290
 e59b14cf-e1ec-47ae-a0ac-1c32a71b3cd7,Starter Kit,8f60aaa2-6afc-4290-a32b-0669277f125c,d201fce2-ddf7-48dc-aed7-322293dcbda8,12500.0,true,true,A-5000,false
 eda19ff9-8f51-4ea0-ba4a-3d30eb11c815,Power Inverter,8f60aaa2-6afc-4290-a32b-0669277f125c,cc9c4320-d09b-4a21-a883-afa1163bbf71,2500.0,true,true,H-36378,false
 236e7f8d-7204-4da5-968f-80d803f34ef9,"16GB RDIMM, 2133MT/s",ac294c71-552d-4ec7-a80a-bb89e7f1b777,0de99987-1913-4192-8df4-afa8c7332a96,300.0,true,false,MEM 16GB,false
+00a58b23-9e87-4d4b-811d-22aef4db4b6e,Application Control Latest,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,8176190c-a9b9-4002-b55f-38296f819cc2,695.0,true,false,AC-002,false
+0a46c155-4036-4328-9437-22bc313bb24d,Business Analyst,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,60d6458b-ef4b-4fff-960e-2bfe5d8fdfe9,278.0,true,false,SRVR-002,false
+0d738f59-a2ee-45ff-929d-b8d6ecae72de,Business Cloud Storage,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,1b4b5c60-78b1-4314-b45e-2f8ccd498fa0,249.0,true,false,CS2,false
+0f04b287-5848-4763-8e82-5c1e13db571f,Coffee Starter Bundle,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,35562ae7-c8e6-4e5d-b49c-d4643c6876b0,0.0,true,false,CSB-B,false
+0f6bd4ce-fa42-449e-b4fd-c51d2d77997c,Company Wide Training,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,d3bc7924-c6ca-4ab5-b1b6-52a610d8e0c8,2000.0,true,false,T4,false
+1778953a-eec8-4bd1-9e22-596bc4a684ae,Cloud Threat Detection Test,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,e10e1787-ab86-4e47-8694-5fa63788e108,2780.0,true,false,ATA-001,false
+18a13506-b047-44fa-a0d6-bf5a989ae14f,Application Protection Unlimited,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,0826cb55-6b1a-43a8-a3d7-014a405723e4,8340.0,true,false,S-SSO-APU,false
+19f6639c-0ff9-42a9-bf7b-b1b7c3ea48e0,8TB 7.2k RPM Self-Encrypting NLSAS,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,1ad13ef7-d7a3-4e81-ae11-ceb987795e77,1559.58,true,false,HD 8TBSE,false
+1a881b4f-2436-4f88-909c-2fc2917f66e7,Best Sellers Varieties Curated Collection,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,64d6efad-6da8-43b2-bec0-ae2d7a7aea5a,103.21,true,false,COF-R-1,false
+1d2fcf96-a206-4752-8a79-93b30f73388e,Atomic Security Platform,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,ebf4d0d2-b38b-4ac5-b594-6c7c88e6087e,0.0,true,false,EP-0001,false
+22f6130d-0dcb-431f-ba7c-a97905487976,Advanced Threat Defense,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,52835485-bca9-441f-aeed-2123c0f72f22,276.61,true,false,NS-001,false
+23263284-231a-4db2-a9f1-1a2e8e3bed2c,"Battery, High Capacity",b1359a9f-55f1-4f59-938f-3893e3cf9dc0,df0df29b-f2f7-47d3-9f7e-9ea1cd81014e,2500.0,true,false,B-1000,false
+2a8369bc-a323-4a97-b12c-3f100f834c4c,8TB 7.2k RPM NLSAS,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,ea945125-31c8-4b6e-a4e9-57c6f47d017b,1202.35,true,false,HD 8TB,false
+36e15376-0398-4f0b-8c5d-ee3b6b8bbbd4,CBU 1,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,3aad1153-8754-4edb-93f5-25204727387b,100.0,true,false,CBU-1,false
+3aff9e79-a4f2-45f7-9721-66bb40351ed3,Additional Application Fee,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,55271950-1a25-4384-b977-948fbf03b440,1.7375,true,false,S-SSO-AAF,false
+3bc8a4bb-2c9f-4b46-a2e2-fd2ae2c26d94,Advanced Server Access,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,3b559047-9f0b-4d58-ba9b-6df141494649,6950.0,true,false,S-SSO-ASA,false
+3c6ae1c5-0705-465b-aace-695c51d63cb6,C13 to C14 Power Cable 5',b1359a9f-55f1-4f59-938f-3893e3cf9dc0,197aa76f-da9f-4553-aa9f-fc28910d4144,708.9,true,false,CMPC-5888,false
+3f74dee4-854c-4560-8cfb-f1e23f7657c7,C19 to C20 Power Cable 3',b1359a9f-55f1-4f59-938f-3893e3cf9dc0,5c536fed-8b1c-4be3-9ccc-1b79ec34d0fe,340.55,true,false,CMPC-5889,false
+485135b4-df8b-4167-85e6-c68a550a3a96,Change Control,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,743c6109-fe2d-435f-a1ce-3bfb8cc8fa05,13900.0,true,false,SS-001,false
+4df13670-d970-4e9b-b686-66a280131668,Advanced Correlation Engine,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,d87f54d5-af43-4e4f-9a0d-7be2b6b5cfca,20850.0,true,false,SIEM-001,false
+4eb94ce0-01b3-4e00-ac6b-5de6f00420f3,Additional Cloud Storage,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,4dc1e108-af54-4512-85d8-766bafca77a4,700.0,true,false,CS6,false
+572989cd-0d2e-4cb2-9232-911be57fba86,CBU 3,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,dd8f47cd-e2a5-4aee-9564-ddddcc04bfed,430.0,true,false,CBU-3,false
+5fe38275-93fe-4414-9569-6609235b1cc7,Application Data Monitor,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,cfe06568-9714-4fb5-aa1f-4985fd589dc3,139.0,true,false,SIEM-002,false
+6ce4846f-9eeb-4896-8628-ce7bd9f27495,100' Roll of 10 Line Bundled Tubing,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,4d46c719-3fb0-448a-8bd4-b147a5d86a89,399.0,true,false,EQP-OT-3,false
+74c5df54-9c55-42ec-bc85-e06b58953572,CBU 5 - Bundle,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,39042ef4-5e85-4ce1-a490-a9feb360fd3c,1575.0,true,false,CBU-5,false
+75798a76-4b55-438c-a98b-ad5f19d57e05,25+ User Training,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,cfe67828-0c61-41c4-b525-e4d0f1f64b97,7500.0,true,false,T2,false
+7695a0b1-225c-4478-8b89-8f79d33ba7e5,Agile Ginger Ale Syrup,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,eee92cc6-a06c-40ad-bd38-476482f9d4bf,39.35,true,false,POP-OT-8,false
+77832f06-0ab3-44b1-8cfa-c498a561cce5,"32GB RDIMM, 2133MT/s",b1359a9f-55f1-4f59-938f-3893e3cf9dc0,32503f62-ba80-4c40-a47a-6783e9f2cd82,667.2,true,false,MEM 32GB,false
+7c804ccf-d6de-4285-8abd-56b8cec0fbc4,Application Protection Block,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,1b738ae6-43ef-4cbd-984a-bad4d8eda892,1390.0,true,false,S-SSO-APB,false
+86eb2f75-01d8-4e1a-bfc7-5ebecf00086b,CBU 4,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,d4582b10-2ba1-4a60-9f86-f92a2108613e,250.0,true,false,CBU-4,false
+8859e6ff-fdec-478b-92ce-51aec3db928f,Blanking Panel,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,939521a1-12ca-430a-ac4a-c4aba766e237,1069.605,true,false,BSSA-4298,false
+8a023bb0-702a-446c-a1eb-f18f2a792897,Complete Threat Solution,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,368218bc-6de8-41e2-a682-ec64d80598ec,0.0,true,false,EP-0001,false
+8d4d6917-5a9e-4da9-a005-2eab680d4769,"16GB RDIMM, 2133MT/s",b1359a9f-55f1-4f59-938f-3893e3cf9dc0,0de99987-1913-4192-8df4-afa8c7332a96,351.67,true,false,MEM 16GB,false
+8ee0cd20-b49b-43a2-b85f-fe8790c2d6cf,1-5 User Training,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,36def804-cfc6-41a9-a3ad-f57ac864522f,1000.0,true,false,T0,false
+92948b11-ac9a-44a3-81e4-146ada631dfc,Business Password Vault,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,7360a630-74f0-4762-9668-d9b21d227123,50.0,true,false,PV2,false
+9826ce60-3c5f-408d-8fda-d5454ead1a73,Cable Containment Brackets,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,92e06568-04ab-4a55-98de-a0aabf62fbfb,221.01,true,false,CMPC-5884,false
+99f7d8b4-b5f4-419d-ba96-771ea5198b7f,C19 to C20 Power Cable 5',b1359a9f-55f1-4f59-938f-3893e3cf9dc0,3f1a86b0-979b-41f9-9b0b-da7c8ef147a2,423.95,true,false,CMPC-5890,false
+9ae6de5e-e724-4a7f-a5dd-63248bb3fab5,CBU 2,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,d3ec98e5-5787-4b22-b141-8d96954f82f7,550.0,true,false,CBU-2,false
+a1445a62-1c99-4ff4-a8dd-a1ac1098ac66,Cable Management Rings (Qty 10),b1359a9f-55f1-4f59-938f-3893e3cf9dc0,4dfaab4f-63ac-4eaa-8b5c-dc6349b5a898,3614.0,true,false,CMPC-5881,false
+b9e149e3-2fbd-4997-b1f4-102e3f09a2fa,6-25 User Training,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,4de4f9a9-e721-4095-9989-7406a1fd1f5d,5000.0,true,false,T1,false
+c05758c3-1461-430c-adc8-0eac263f7751,C13 to C14 Power Cable 3',b1359a9f-55f1-4f59-938f-3893e3cf9dc0,de84b64d-71f6-4bc6-ac87-6586a9d67be8,764.5,true,false,CMPC-5887,false
+cbcd30bd-5ce0-4643-b5f2-1695f70168f1,10 Valve Push Button Countertop Ice/Beverage Dispenser,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,b6fb23cc-c1f3-4e95-bcdb-82e8d680a871,3189.0,true,false,EQP-OT-1,false
+d87b6b63-1be0-4085-b4a2-d6b49074fb3d,Basic Consulting Plan,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,39cbb530-e15d-4422-a576-121154a0dcb3,225.0,true,false,LT-TOSH,false
+de534af3-eb22-4251-b594-f3fc0fd19cea,"8GB RDIMM, 2133MT/s",b1359a9f-55f1-4f59-938f-3893e3cf9dc0,89e1188e-7ba8-4ad6-84fd-4d05f5b196ee,241.86,true,false,MEM 8GB,false
+e794f3bb-d2f0-4013-8fb2-a574737f97aa,"Battery, Low Capacity",b1359a9f-55f1-4f59-938f-3893e3cf9dc0,feaf9bce-1fd8-49dc-bcfb-2a4e8e99dfe1,1500.0,true,false,C-45678,false
+e9b4a80d-688a-4a8d-a6d5-6b7714be4938,Agile Ginger Ale Syrup,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,78672f1a-9542-486f-9e75-d649136c8d53,33.45,true,false,POP-R-8,false
+eac2a694-d297-4693-93e5-ea0ce3e4fecc,1TB 7.2k RPM NLSAS,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,6ea38c9d-a9ba-4d73-a7d5-e59b47821bda,369.74,true,false,HD 1TB,false
+ef59dd35-b597-4c6e-8fb2-8272435f0c60,4TB 7.2k RPM NLSAS,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,36143046-92b6-4b96-a875-2c143a69d772,931.3,true,false,HD 4TB,false
+fe1f1630-bc51-40dc-b2e3-c6630b527de8,Best Sellers Varieties Curated Collection,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,20592bab-2ce6-4168-832e-8b92be8dd579,121.42,true,false,COF-OT-1,false
+fe4bddcc-0b48-45d3-a9f5-0997995e6546,Business Plus Cloud Storage,b1359a9f-55f1-4f59-938f-3893e3cf9dc0,648f32e7-9dc8-4357-80e6-033db3c40fd2,800.0,true,false,CS3,false
