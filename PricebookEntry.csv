@@ -102,3 +102,20 @@ f73a77b1-6ff9-419b-838a-4b280bad9a04,"Battery, High Capacity",20982419-43dd-4f4c
 f9e06bd7-1762-41e7-9d0b-373cf6c4e8e8,Second Stage Turbine Blade,20982419-43dd-4f4c-9be4-37ab134afc57,eba38caf-edd1-48fd-9037-d19677ca8de5,999.99,true,false,SSTBLD,false
 fb8e0452-1e38-4bf4-bbe1-3cd39acf8467,Installation Services,20982419-43dd-4f4c-9be4-37ab134afc57,7ee10cc9-e534-4ca4-b11e-0ea72ce0492c,800.0,true,false,INST-100,false
 ff3d9880-6c5c-4834-ad28-4a37afde0bb8,Service Subscription - Yearly,20982419-43dd-4f4c-9be4-37ab134afc57,e6cd6ac4-1a7a-468b-ba20-8a8afde2512c,1200.0,true,false,SERV-ADC-001,false
+2ff12773-1c86-4186-b77f-0a50fda4456c,"Battery, High Capacity",8f60aaa2-6afc-4290-a32b-0669277f125c,df0df29b-f2f7-47d3-9f7e-9ea1cd81014e,2500.0,true,true,B-1000,false
+38b9e526-41b2-4923-bbc0-ff709f0fb157,Mounting System,8f60aaa2-6afc-4290-a32b-0669277f125c,06eb7f3f-a646-40c5-85b7-879ae2ff7a7b,175.0,true,true,C-400,false
+3910a94c-5bfe-423c-99b5-cbc1dc081f98,Installation Services,8f60aaa2-6afc-4290-a32b-0669277f125c,7ee10cc9-e534-4ca4-b11e-0ea72ce0492c,1100.0,true,true,INST-100,false
+5e4c3fbc-a605-478b-9143-3dcb038a11e6,Wind Turbine Exploded Parts,8f60aaa2-6afc-4290-a32b-0669277f125c,a2e54fcf-6888-4958-ae9b-aa19ca019aa7,0.0,true,true,WT-EXP100,false
+650d267d-4810-4797-9ee1-00099847d8dd,Energy Meter,8f60aaa2-6afc-4290-a32b-0669277f125c,d7f87947-b1cd-4f4c-a0fc-4e0f469d29a3,500.0,true,true,E-1000,false
+6de08b7a-457e-4d65-999d-adcef5d5a736,Connector Cables,8f60aaa2-6afc-4290-a32b-0669277f125c,73b72920-ff99-4944-99df-60472564eff1,250.0,true,true,C-300,false
+7e49edb7-3808-43c8-b0a0-3c0a2d8686eb,Product B,8f60aaa2-6afc-4290-a32b-0669277f125c,303fee31-ab88-49ac-ba42-e13a983fba36,999.0,true,true,46372818,false
+7e5b88fc-ee36-4e62-95ea-dc3c05db5751,Product C,8f60aaa2-6afc-4290-a32b-0669277f125c,139820c0-930f-4610-9c79-4f8c0718b1df,1499.0,true,true,46372817,false
+88d27c27-6329-4a3a-9d38-022e6d58495f,Product A,8f60aaa2-6afc-4290-a32b-0669277f125c,1c10d8a1-4599-459d-bd6e-c48cb40636a4,599.0,true,true,46372819,false
+98d9f85a-95c8-4698-b27a-3354a8c5cb2c,Maintenance Contract,8f60aaa2-6afc-4290-a32b-0669277f125c,8ca6b261-7887-414e-b9f7-3fe106ac941d,0.0,true,true,M-1000,false
+a23eb358-36a6-4e20-8589-4f318f92ab46,Small Turbine,8f60aaa2-6afc-4290-a32b-0669277f125c,27a1e8ed-4b28-4123-a103-c8905993c885,6000.0,true,true,A-100,false
+d4b3e481-6f99-4f9c-81e6-40450e005937,Large Turbine,8f60aaa2-6afc-4290-a32b-0669277f125c,7a826b7e-1f2b-4129-9af6-8e52d3277440,10000.0,true,true,A-1000,false
+d5926308-dba9-40a9-9798-d7748a81e8cc,Remote Monitoring Subscription,8f60aaa2-6afc-4290-a32b-0669277f125c,dfc8ff15-502c-4c58-922e-82d743ed5f66,800.0,true,true,R-100,false
+da1be319-3266-432b-964f-8ffcac7ed4bd,Fuses (Set of 10),8f60aaa2-6afc-4290-a32b-0669277f125c,b0f25e5d-74af-411a-b7eb-fc2c357fea8b,100.0,true,true,C-100,false
+e218a4f3-baa9-4517-b281-1d8166835179,Performance Optimization,8f60aaa2-6afc-4290-a32b-0669277f125c,40e74082-78ba-4b7e-9f3a-bf6cad99d360,500.0,true,true,L-100,false
+e59b14cf-e1ec-47ae-a0ac-1c32a71b3cd7,Starter Kit,8f60aaa2-6afc-4290-a32b-0669277f125c,d201fce2-ddf7-48dc-aed7-322293dcbda8,12500.0,true,true,A-5000,false
+eda19ff9-8f51-4ea0-ba4a-3d30eb11c815,Power Inverter,8f60aaa2-6afc-4290-a32b-0669277f125c,cc9c4320-d09b-4a21-a883-afa1163bbf71,2500.0,true,true,H-36378,false
