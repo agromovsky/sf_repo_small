@@ -61,3 +61,44 @@ f7f4788f-f302-4448-bfd7-4d8ab5196c78,Product B,2ae8147d-07cc-4db0-aa86-b3814deae
 f9bfdc07-aee7-4553-9a9a-91b3c1a400eb,Product C,2ae8147d-07cc-4db0-aa86-b3814deae4cb,139820c0-930f-4610-9c79-4f8c0718b1df,1499.0,true,true,46372817,false
 52fa2efa-030a-4e3f-8fd7-a9a04fa0981a,Product2,6405e688-2230-45a1-8e82-5d82e6157492,3d973b42-23bf-455c-8b50-b7083ae330d5,200.0,true,false,234,false
 e8cfb1a2-3f0b-4dc8-bed5-d686d223de71,Product1,6405e688-2230-45a1-8e82-5d82e6157492,cd23907b-e579-4393-a640-f2ad2cc4ce28,100.0,true,false,123,false
+0de93bcc-eb50-418a-a271-379135123053,Performance Optimization,20982419-43dd-4f4c-9be4-37ab134afc57,40e74082-78ba-4b7e-9f3a-bf6cad99d360,399.0,true,false,L-100,false
+0eaa87e1-1c1d-49ca-9f9b-412a24ef4f29,Solar Panels,20982419-43dd-4f4c-9be4-37ab134afc57,76d3c77e-e8f6-41a6-9368-7684a41fe82c,2025.0,true,false,S-100-ADC-010,false
+135c6c2b-61d1-45e4-8d65-d91211b32e25,Solar Panels,20982419-43dd-4f4c-9be4-37ab134afc57,461cfc1f-ab52-4b5a-b3af-a32cb8cc5127,1995.0,true,false,S-100-ADC-007,false
+18946067-de92-4ff7-9d63-91ad500049b8,Connector Cables,20982419-43dd-4f4c-9be4-37ab134afc57,73b72920-ff99-4944-99df-60472564eff1,199.0,true,false,C-300,false
+24ae2b98-91f6-40cc-beb9-d6aba67e845c,Solar Panels,20982419-43dd-4f4c-9be4-37ab134afc57,036d3c13-fbfe-476a-8c56-dda36bc0f085,1650.0,true,false,S-100-ADC-003,false
+2d1a1178-f32c-454a-b340-a6838d58a4fe,Energy Bundle,20982419-43dd-4f4c-9be4-37ab134afc57,102d45ae-e345-40c6-9bd2-e8674b575b0a,11425.0,true,false,EB-5000,false
+33153b30-c02a-4ebf-9cdd-49e6c16fe74e,Hydraulic Unit,20982419-43dd-4f4c-9be4-37ab134afc57,f3e8a9e6-a6d0-4e38-8266-d55970fc919a,449.99,true,false,WT-HYD-UNIT,false
+3c6a201b-4f4a-4801-b485-f5cb342961e3,Solar Panels,20982419-43dd-4f4c-9be4-37ab134afc57,37a1e3af-e6de-4f40-a064-edf0a0e0ce07,1775.0,true,false,S-100-ADC-005,false
+4096e3d1-a954-4dd8-914f-cb368bde9e52,Solar Panels,20982419-43dd-4f4c-9be4-37ab134afc57,ace1c471-0bda-4a45-88cd-4dc8099880e8,1590.0,true,false,S-100-ADC-002,false
+44a30639-5c52-43f7-8b20-5837dd0fc375,Service Subscription - Monthly,20982419-43dd-4f4c-9be4-37ab134afc57,5a48d362-4c81-490e-a89a-0e72a0b63283,130.0,true,false,SERV-ADC-002,false
+44db5e7f-e101-40a6-a03f-70b6a6d38ea7,Wind Generator,20982419-43dd-4f4c-9be4-37ab134afc57,3b12a385-d607-4c15-8080-941c19ccae88,549.99,true,false,WT-GEN,false
+5fce39d3-83d5-4eb0-a2c9-5c21a9f82301,Gearbox,20982419-43dd-4f4c-9be4-37ab134afc57,fe563c71-5a9e-4e16-b642-03da0f0d07c5,349.99,true,false,WT-GBOX,false
+604516e4-7c0d-4b8e-b353-ff30c4fc81bc,Fuses (Set of 10),20982419-43dd-4f4c-9be4-37ab134afc57,b0f25e5d-74af-411a-b7eb-fc2c357fea8b,80.0,true,false,C-100,false
+67966988-3b6f-408b-b85c-f969a23363ee,Solar Panels,20982419-43dd-4f4c-9be4-37ab134afc57,6b5b1a5a-2279-41ac-846d-8d29f8eedbbb,1450.0,true,false,S-100-ADC,false
+702dff02-3f59-4980-86b8-86b4fdcb98e6,Mounting System,20982419-43dd-4f4c-9be4-37ab134afc57,06eb7f3f-a646-40c5-85b7-879ae2ff7a7b,150.0,true,false,C-400,false
+7355d328-bbb4-4621-9600-c9dd79268da6,Solar Panels,20982419-43dd-4f4c-9be4-37ab134afc57,8a486c32-67c7-4077-b83e-1110ad712800,1450.0,true,false,S-100-ADC-001,false
+7e8b013f-9b19-469d-9fb5-f0a0702fb8df,"Battery, Low Capacity",20982419-43dd-4f4c-9be4-37ab134afc57,feaf9bce-1fd8-49dc-bcfb-2a4e8e99dfe1,1100.0,true,false,C-45678,false
+88375698-4cdf-46df-a145-7e681eb2b608,Remote Monitoring Subscription,20982419-43dd-4f4c-9be4-37ab134afc57,dfc8ff15-502c-4c58-922e-82d743ed5f66,600.0,true,false,R-100,false
+89d2b53b-9def-4f7d-8d05-713695a4733b,Wind Turbine Exploded Parts,20982419-43dd-4f4c-9be4-37ab134afc57,a2e54fcf-6888-4958-ae9b-aa19ca019aa7,0.0,true,true,WT-EXP100,false
+990ac562-5e16-4d6e-bdf8-719c78172ff4,Energy Meter,20982419-43dd-4f4c-9be4-37ab134afc57,d7f87947-b1cd-4f4c-a0fc-4e0f469d29a3,425.0,true,false,E-1000,false
+9944d1b2-4ea2-4ed8-b212-7a2babd7f0cd,CBU 5 - Bundle,20982419-43dd-4f4c-9be4-37ab134afc57,39042ef4-5e85-4ce1-a490-a9feb360fd3c,1475.0,true,false,CBU-5,false
+9fbcef87-46d8-4646-bdf5-c74c4764cdde,Large Turbine,20982419-43dd-4f4c-9be4-37ab134afc57,7a826b7e-1f2b-4129-9af6-8e52d3277440,8999.0,true,false,A-1000,false
+b26814b5-2aa9-45de-ad18-3545075869fd,Solar Panels,20982419-43dd-4f4c-9be4-37ab134afc57,108c90c5-8c67-45af-b2a0-88a154e77f44,1925.0,true,false,S-100-ADC-006,false
+b4ea5b07-18b9-4bfe-b985-714d3e1dcede,Yaw Motor,20982419-43dd-4f4c-9be4-37ab134afc57,b70d04fd-755a-4fc7-b322-012186c7958e,299.99,true,false,WT-YAW-MTR,false
+b566e978-515a-4eaa-916a-93a35a660416,Starter Kit,20982419-43dd-4f4c-9be4-37ab134afc57,d201fce2-ddf7-48dc-aed7-322293dcbda8,11900.0,true,false,A-5000,false
+b5968010-ee2f-43e5-bdbf-e7707df06bf3,CBU 4,20982419-43dd-4f4c-9be4-37ab134afc57,d4582b10-2ba1-4a60-9f86-f92a2108613e,225.0,true,false,CBU-4,false
+bc6e61d8-ad37-43a9-8a04-bc049cff635a,Solar Panels,20982419-43dd-4f4c-9be4-37ab134afc57,37cab895-ab8f-479c-9b07-7e76ef06c8ac,1800.0,true,false,S-100-ADC-009,false
+c5f4843b-fbba-468d-965d-316a7b902eaa,Small Turbine,20982419-43dd-4f4c-9be4-37ab134afc57,27a1e8ed-4b28-4123-a103-c8905993c885,5025.0,true,false,A-100,false
+cb29f966-e80f-470f-ba3b-92a5c9cb6a95,Solar Panels,20982419-43dd-4f4c-9be4-37ab134afc57,e125720d-6d30-4853-979f-d38d1b79f4e2,2005.0,true,false,S-100-ADC-008,false
+d5b0ea3f-3b11-4745-9999-f066a8686351,CBU 1,20982419-43dd-4f4c-9be4-37ab134afc57,3aad1153-8754-4edb-93f5-25204727387b,90.0,true,false,CBU-1,false
+d6978d39-aa56-4211-ab47-295769239cff,Maintenance Contract,20982419-43dd-4f4c-9be4-37ab134afc57,8ca6b261-7887-414e-b9f7-3fe106ac941d,300.0,true,false,M-1000,false
+db8f4771-4739-452d-bfbc-400c26a44ee3,CBU 3,20982419-43dd-4f4c-9be4-37ab134afc57,dd8f47cd-e2a5-4aee-9564-ddddcc04bfed,400.0,true,false,CBU-3,false
+de9ce704-0e53-4aaf-98d5-0e914651f8eb,Power Inverter,20982419-43dd-4f4c-9be4-37ab134afc57,cc9c4320-d09b-4a21-a883-afa1163bbf71,2100.0,true,false,H-36378,false
+e835d898-99a2-4408-9771-b8f4049ab67c,Labor,20982419-43dd-4f4c-9be4-37ab134afc57,fabfca28-7c3e-4f26-ac84-1706d56a9edb,125.0,true,false,L-1000,false
+e8f847c6-82f0-48d5-a2fa-c3aa8578666c,CBU 2,20982419-43dd-4f4c-9be4-37ab134afc57,d3ec98e5-5787-4b22-b141-8d96954f82f7,530.0,true,false,CBU-2,false
+f310237d-bdbb-42c9-a207-94fd8aecb67e,Service Subscription,20982419-43dd-4f4c-9be4-37ab134afc57,fc2f55a4-4a54-4021-9d95-515905c4b9c8,1300.0,true,true,SERV-ADC-000,false
+f3bddd1d-c2d8-4de2-87fd-af82724dc0b7,Service Subscription - One-Time,20982419-43dd-4f4c-9be4-37ab134afc57,330ba3ac-efb4-47f5-9688-6b8f13c92dc8,1600.0,true,false,SERV-ADC-003,false
+f73a77b1-6ff9-419b-838a-4b280bad9a04,"Battery, High Capacity",20982419-43dd-4f4c-9be4-37ab134afc57,df0df29b-f2f7-47d3-9f7e-9ea1cd81014e,2100.0,true,false,B-1000,false
+f9e06bd7-1762-41e7-9d0b-373cf6c4e8e8,Second Stage Turbine Blade,20982419-43dd-4f4c-9be4-37ab134afc57,eba38caf-edd1-48fd-9037-d19677ca8de5,999.99,true,false,SSTBLD,false
+fb8e0452-1e38-4bf4-bbe1-3cd39acf8467,Installation Services,20982419-43dd-4f4c-9be4-37ab134afc57,7ee10cc9-e534-4ca4-b11e-0ea72ce0492c,800.0,true,false,INST-100,false
+ff3d9880-6c5c-4834-ad28-4a37afde0bb8,Service Subscription - Yearly,20982419-43dd-4f4c-9be4-37ab134afc57,e6cd6ac4-1a7a-468b-ba20-8a8afde2512c,1200.0,true,false,SERV-ADC-001,false
