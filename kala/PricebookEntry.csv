@@ -393,3 +393,5 @@ f73a77b1-6ff9-419b-838a-4b280bad9a04,"Battery, High Capacity",20982419-43dd-4f4c
 f9e06bd7-1762-41e7-9d0b-373cf6c4e8e8,Second Stage Turbine Blade,20982419-43dd-4f4c-9be4-37ab134afc57,eba38caf-edd1-48fd-9037-d19677ca8de5,999.99,true,false,SSTBLD,false
 fb8e0452-1e38-4bf4-bbe1-3cd39acf8467,Installation Services,20982419-43dd-4f4c-9be4-37ab134afc57,7ee10cc9-e534-4ca4-b11e-0ea72ce0492c,800.0,true,false,INST-100,false
 ff3d9880-6c5c-4834-ad28-4a37afde0bb8,Service Subscription - Yearly,20982419-43dd-4f4c-9be4-37ab134afc57,e6cd6ac4-1a7a-468b-ba20-8a8afde2512c,1200.0,true,false,SERV-ADC-001,false
+52fa2efa-030a-4e3f-8fd7-a9a04fa0981a,Product2,6405e688-2230-45a1-8e82-5d82e6157492,3d973b42-23bf-455c-8b50-b7083ae330d5,200.0,true,false,234,false
+e8cfb1a2-3f0b-4dc8-bed5-d686d223de71,Product1,6405e688-2230-45a1-8e82-5d82e6157492,cd23907b-e579-4393-a640-f2ad2cc4ce28,100.0,true,false,123,false
