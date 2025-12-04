@@ -76,3 +76,278 @@ eb9da142-31af-4fcb-91a1-7decef4e7aed,Hydraulic Unit,48586b5e-efaf-4792-a15c-fe4d
 f5fd4d99-93fd-4789-ae32-7b74f556d383,Service Subscription - One-Time,48586b5e-efaf-4792-a15c-fe4d6051de6f,330ba3ac-efb4-47f5-9688-6b8f13c92dc8,1700.0,true,true,SERV-ADC-003,false
 f6c311a7-0369-4ed1-b7cf-4b320d19acd7,Service Subscription,48586b5e-efaf-4792-a15c-fe4d6051de6f,fc2f55a4-4a54-4021-9d95-515905c4b9c8,1300.0,true,true,SERV-ADC-000,false
 fe7cc83e-9ed6-4ede-89c8-1e3d386af2ea,Installation Services,48586b5e-efaf-4792-a15c-fe4d6051de6f,7ee10cc9-e534-4ca4-b11e-0ea72ce0492c,1100.0,true,false,INST-100,false
+0021a0ab-28c6-4c12-a0cc-5007de59671e,1TB 7.2k RPM NLSAS,00000001-c64a-496c-9b10-53674a81ae2a,6ea38c9d-a9ba-4d73-a7d5-e59b47821bda,369.74,true,false,HD 1TB,false
+021f424b-5f9a-4692-9212-a8413669fba1,Silver Support,00000001-c64a-496c-9b10-53674a81ae2a,0a137c4a-1f7b-49ab-8559-bd97dfcd20f5,4170.0,true,false,SPT-001,false
+02d057f3-684b-4db1-9891-c077778a1453,L5-20 Input Power Cable 12',00000001-c64a-496c-9b10-53674a81ae2a,ec3806c2-d797-4c74-8816-acffe3b0eabd,13.9,true,false,CMPC-5891,false
+02d81af8-886f-4a51-a622-ed1cbd7e6283,Solar Panels,00000001-c64a-496c-9b10-53674a81ae2a,461cfc1f-ab52-4b5a-b3af-a32cb8cc5127,2125.0,true,false,S-100-ADC-007,false
+03143d78-c072-4a1c-9ef2-0bd9fdad5b7e,Deployment Dark Roast,00000001-c64a-496c-9b10-53674a81ae2a,ff321ac1-ffe5-4b40-bd3b-6b0d17d8493c,14.99,true,false,COF-OT-4,false
+0521d4c2-ec43-4d53-bfcb-ab50457ff712,Enterprise Log Manager,00000001-c64a-496c-9b10-53674a81ae2a,e9ea0f6d-121d-43a8-8bc4-9285946d03f0,139.0,true,false,SIEM-004,false
+0938f2fc-90e1-4ef7-a873-90715db7d825,C19 to C20 Power Cable 5',00000001-c64a-496c-9b10-53674a81ae2a,3f1a86b0-979b-41f9-9b0b-da7c8ef147a2,423.95,true,false,CMPC-5890,false
+09aad6cd-cb23-4b72-b179-05468803b6cb,Low-Code Lemon-Lime Syrup,00000001-c64a-496c-9b10-53674a81ae2a,ede262e1-a115-4301-9450-d7c660c56474,39.35,true,false,POP-OT-4,false
+09baf484-ae16-40a1-b6ff-404ad22385c6,Endpoint Threat Response,00000001-c64a-496c-9b10-53674a81ae2a,90b20080-a149-49b1-996f-3044dbcb8804,139.0,true,false,EP-007,false
+0a9779d7-80cf-4b68-96cb-ed1d48481832,MOVE AntiVirus,00000001-c64a-496c-9b10-53674a81ae2a,14d1b7f4-d75e-4fae-95ad-76bfe2ee26d3,2780.0,true,false,SS-004,false
+0b83409c-c155-4bd8-8fb7-4deaab7ba240,Integration Specialist Engineer,00000001-c64a-496c-9b10-53674a81ae2a,fce6ccf9-9ecf-4baa-abe3-e7f826056f57,312.75,true,false,SV-ISE,false
+0bd8e9b7-c850-40b3-bae1-34d90e857922,Hydraulic Unit,00000001-c64a-496c-9b10-53674a81ae2a,f3e8a9e6-a6d0-4e38-8266-d55970fc919a,449.99,true,false,WT-HYD-UNIT,false
+0cd84b0a-4ad9-46af-a310-be9f56b5f933,Roof Fan Tray 750mm - 208V,00000001-c64a-496c-9b10-53674a81ae2a,4d260c43-528f-42b9-8f35-293ea93859dc,1559.58,true,false,BSSA-4308,false
+0d7ef502-5d42-444d-bcd6-f027f809a0fd,CBU 3,00000001-c64a-496c-9b10-53674a81ae2a,dd8f47cd-e2a5-4aee-9564-ddddcc04bfed,430.0,true,false,CBU-3,false
+0da2bbd1-1a6e-417c-beb3-a304388cea23,"Rack PDU 5.7W, 208V, C13 output",00000001-c64a-496c-9b10-53674a81ae2a,e8d6ed78-9d9d-4644-8695-b34ce07a7cf1,0.0,true,false,PDU-2029,false
+0de168a3-1fff-492b-b03f-f48ef5e5f0c8,Security Certification Training: Shield,00000001-c64a-496c-9b10-53674a81ae2a,e0209880-8181-4fc3-8e7d-05809a64647a,799.0,true,false,SC2,false
+0ea4f96e-67b0-43c9-b893-b8c2beebe04a,Maintenance,00000001-c64a-496c-9b10-53674a81ae2a,46675b63-3f79-49fd-a020-f754ca0c4147,139.0,true,false,SSM-0001,false
+100a0a10-03f5-40f7-9fc8-c406e23c96c2,Platinum Support,00000001-c64a-496c-9b10-53674a81ae2a,902ee806-c0c3-488e-86d7-c4d75b9a9043,6950.0,true,false,SPT-003,false
+106cf8be-03d2-4435-b697-306fe8c0f919,Deploy Dew Syrup,00000001-c64a-496c-9b10-53674a81ae2a,12fb01ea-85bc-4745-a30f-1c4c5d839c78,39.35,true,false,POP-OT-3,false
+11bca9d2-9ef0-44c0-abfc-3b5fc019c06e,Web Protection,00000001-c64a-496c-9b10-53674a81ae2a,a6e3be12-2073-4de9-90a2-c1c87e0c55ae,69.5,true,false,WS-003,false
+129e25d5-7cd5-441c-93e7-f08b850f423e,MaxShell 8U 600mmx1070mm,00000001-c64a-496c-9b10-53674a81ae2a,27756c7c-7963-48a4-a654-54a5b12472d8,1611.01,true,false,BMX-1050,false
+143913ce-b45a-496d-80e7-d0e1708d583b,SSO Reporting Training Portal for End Users,00000001-c64a-496c-9b10-53674a81ae2a,ef59d91e-8a41-445c-b5bb-8852a6aaa886,7645.0,true,false,S-SSO-RTP,false
+152edcd9-50a4-4b65-bd6e-f8e5dd7ebd51,Endpoint Security for Mac,00000001-c64a-496c-9b10-53674a81ae2a,96a1fcda-499e-4f91-b613-74a93aba0be1,69.5,true,false,EP-005,false
+15ef7329-bb4a-4de9-a8a6-4642a08ff6a1,Personal Security Firewall,00000001-c64a-496c-9b10-53674a81ae2a,f63fc02d-02a4-40f7-99d3-19b640db2f69,500.0,true,false,N1,false
+172540a6-3a1a-49c3-ab49-8ee9cda3b0ca,Best Sellers Varieties Curated Collection,00000001-c64a-496c-9b10-53674a81ae2a,20592bab-2ce6-4168-832e-8b92be8dd579,121.42,true,false,COF-OT-1,false
+17e84588-5d9c-47f7-a616-1b5a0eb6a62c,Business Plus Cloud Storage,00000001-c64a-496c-9b10-53674a81ae2a,648f32e7-9dc8-4357-80e6-033db3c40fd2,800.0,true,false,CS3,false
+17f4be6b-ed48-4fde-bf44-1e271bb47217,Dr. Prod Syrup,00000001-c64a-496c-9b10-53674a81ae2a,99fae08d-1c1f-4503-8dc2-d6972efa182a,33.45,true,false,POP-R-2,false
+1853b609-8b67-4c56-bacd-cb69dc4194a4,Gold Hardware Maintenance,00000001-c64a-496c-9b10-53674a81ae2a,5908278f-1fa6-4e59-adc2-0c981ac5ca40,3336.0,true,false,SUPP-1005,false
+1900f005-e828-4a51-bb41-b1f8f646642c,100' Roll of 10 Line Bundled Tubing,00000001-c64a-496c-9b10-53674a81ae2a,4d46c719-3fb0-448a-8bd4-b147a5d86a89,399.0,true,false,EQP-OT-3,false
+1c640c25-ceb9-4194-9bb7-9858ccbd4d45,C13 to C14 Power Cable 5',00000001-c64a-496c-9b10-53674a81ae2a,197aa76f-da9f-4553-aa9f-fc28910d4144,708.9,true,false,CMPC-5888,false
+1d49386d-be76-4aaa-aac3-e9c491b35fc9,Intel Xeon E5-2609 v4 1.7GHz,00000001-c64a-496c-9b10-53674a81ae2a,0683e44f-8b4e-452f-941e-ce3d5aab6502,2047.47,true,false,INTEL E5-2609,false
+1e995cb2-c65b-430b-80da-4398963e48a3,DLP Monitor,00000001-c64a-496c-9b10-53674a81ae2a,787755e0-2b08-4c62-857b-fc1044249c79,139.0,true,false,DP-007,false
+1f9c28d5-e1b7-4bec-a568-bb46d215b82d,Policy Auditor Test,00000001-c64a-496c-9b10-53674a81ae2a,14451de5-f584-4263-9f30-aa1a0e3cd2f0,2780.0,true,false,SS-006,false
+1fefdbe5-5868-4eb7-b01b-246d0942fc08,Windows Server Datacenter - Onetime License,00000001-c64a-496c-9b10-53674a81ae2a,a25bd9fe-8af3-4b4b-bbbd-d0f1a1fa60c1,7810.0347,true,false,WIN SDATA-OT,false
+2005b515-c754-45c0-8b73-029192d59315,Connector Cables,00000001-c64a-496c-9b10-53674a81ae2a,73b72920-ff99-4944-99df-60472564eff1,250.0,true,false,C-300,false
+21f0e73b-c0a4-47e5-9ff6-dfcc96ba797c,Dr. Prod Syrup,00000001-c64a-496c-9b10-53674a81ae2a,13363c81-a5b9-469b-ace5-ca076b86dce5,39.35,true,false,POP-OT-2,false
+241d69bd-917c-4027-b4bc-6caaa4dc1d27,Solar Panels,00000001-c64a-496c-9b10-53674a81ae2a,6b5b1a5a-2279-41ac-846d-8d29f8eedbbb,1600.0,true,false,S-100-ADC,false
+253eec42-0bdd-4c9e-9b93-ed7f42aacef3,"Rack PDU 10A, 230V C20 input C19",00000001-c64a-496c-9b10-53674a81ae2a,3ed340b9-c325-4a5e-8e33-f36146925802,1790.32,true,false,PDU-2026,false
+25e57134-dd23-44ff-b348-f80dd4449069,Endpoint Threat Protection,00000001-c64a-496c-9b10-53674a81ae2a,31310475-f583-4852-b214-d7304757b0d1,173.75,true,false,EP-008,false
+272a7bc3-6f8b-49b4-8e24-1b2b25e66031,Pumpkin Sandbox Latte,00000001-c64a-496c-9b10-53674a81ae2a,f47fe48b-3fbc-44ca-86b4-b18a3f526986,14.99,true,false,COF-OT-3,false
+278aab9c-c6a6-4e14-8184-0ab049595c60,Uptime Espresso,00000001-c64a-496c-9b10-53674a81ae2a,822ed8a8-d5fc-493f-9374-e04579a8ba4b,14.99,true,false,COF-OT-6,false
+280000df-e395-4de9-817d-ec872abe6102,Currency Conversion Credit,00000001-c64a-496c-9b10-53674a81ae2a,55cfc342-c97c-4f5a-b6db-50213ca2d7d2,0.0,true,false,curr-credit,false
+2838bacd-4ccb-4694-a314-f9d5e1d14f57,Silver Hardware Maintenance,00000001-c64a-496c-9b10-53674a81ae2a,76b98dd3-a686-46c7-9db6-4e748bfebdc1,3336.0,true,false,SUPP-1000,false
+284b700c-2851-4dc8-99c3-bfa8a3302b31,Wind Turbine Exploded Parts,00000001-c64a-496c-9b10-53674a81ae2a,a2e54fcf-6888-4958-ae9b-aa19ca019aa7,0.0,true,false,WT-EXP100,false
+28dacef2-095b-4365-a4df-e1436bbff37e,Threat Intelligence Exchange,00000001-c64a-496c-9b10-53674a81ae2a,c4912b0c-c21e-4967-91db-0eead37502e5,11120.0,true,false,SM-002,false
+296d0131-9132-475c-8ddb-9d1e8f2036bd,Solar Panels,00000001-c64a-496c-9b10-53674a81ae2a,108c90c5-8c67-45af-b2a0-88a154e77f44,2075.0,true,false,S-100-ADC-006,false
+2dd054d3-1467-4627-aa59-088adc62f905,Professional Services Project,00000001-c64a-496c-9b10-53674a81ae2a,38381bab-bb00-40b2-8908-63e47c87874d,0.0,true,false,SV-PRJ,false
+2de13a7f-107d-4dd9-85fb-535a5d5b50ca,Yaw Motor,00000001-c64a-496c-9b10-53674a81ae2a,b70d04fd-755a-4fc7-b322-012186c7958e,299.99,true,false,WT-YAW-MTR,false
+2e749691-63a3-42cd-8e73-302ae3f8d885,Change Control,00000001-c64a-496c-9b10-53674a81ae2a,743c6109-fe2d-435f-a1ce-3bfb8cc8fa05,13900.0,true,false,SS-001,false
+2e74acc9-49c9-4ab2-9693-362ffebed8f2,Uptime Espresso,00000001-c64a-496c-9b10-53674a81ae2a,3b3ea9c0-b8d4-41fe-b268-b8b9eaf910b8,12.74,true,false,COF-R-6,false
+2fb935a7-1c70-4c58-bee3-8e93a1df1d24,"Vertical Cable Organizer, 8 Cable Rings",00000001-c64a-496c-9b10-53674a81ae2a,0e54f36f-0311-4e6b-970d-c3c22f7ac9a0,3127.5,true,false,CMPC-5882,false
+309f4965-00ae-46ab-b62e-1a7036d32f4d,Gearbox,00000001-c64a-496c-9b10-53674a81ae2a,fe563c71-5a9e-4e16-b642-03da0f0d07c5,349.99,true,false,WT-GBOX,false
+31444ca0-c60e-4357-8da4-a80dcb876da6,C19 to C20 Power Cable 3',00000001-c64a-496c-9b10-53674a81ae2a,5c536fed-8b1c-4be3-9ccc-1b79ec34d0fe,340.55,true,false,CMPC-5889,false
+316d6cdd-e90d-484c-8325-df61e03ad28b,vSphere Standard,00000001-c64a-496c-9b10-53674a81ae2a,e9ceb5bd-d19c-4b3d-a5d9-b665446e1c0a,276.61,true,false,VMW-S,false
+31e39b56-fd08-4466-812e-a726b4ec37f5,Solar Panels,00000001-c64a-496c-9b10-53674a81ae2a,37a1e3af-e6de-4f40-a064-edf0a0e0ce07,1960.0,true,false,S-100-ADC-005,false
+36176a94-aba3-4fcc-8af4-c8b88dbf56a6,Deployment Dark Roast,00000001-c64a-496c-9b10-53674a81ae2a,41bf19d1-c58c-47b0-8339-ebcf421d3231,12.74,true,false,COF-R-4,false
+369ffa59-ec68-44b5-93a7-3866f6255e22,Prodly Cola Syrup,00000001-c64a-496c-9b10-53674a81ae2a,2a536d0a-9e06-4f15-8404-5ba7993cbb2b,39.35,true,false,POP-OT-1,false
+36d4cd8e-e52d-4dee-a86d-51e8102699fe,Best Sellers Varieties Curated Collection,00000001-c64a-496c-9b10-53674a81ae2a,64d6efad-6da8-43b2-bec0-ae2d7a7aea5a,103.21,true,false,COF-R-1,false
+37af5401-57d5-41b1-b7c1-d061c25620e1,Solutions Architect,00000001-c64a-496c-9b10-53674a81ae2a,d806398c-7ebc-4950-92f1-4cc932fd5667,417.0,true,false,SV-SAT,false
+3892dfa3-e1dc-4529-aed6-06253badaa8f,SSO Suite Identity Management User License,00000001-c64a-496c-9b10-53674a81ae2a,1a070bbc-639a-4315-999a-ec274e954636,83.4,true,false,S-SSO-USER,false
+39ba9831-6b30-4e4e-b3ed-6ca29b57b82d,Security Certification Training: Bastion,00000001-c64a-496c-9b10-53674a81ae2a,9a6c3732-fa24-43a6-a959-ccb50ccd7d0b,580.0,true,false,SC3,false
+3a8cc498-6bf2-4ecf-a540-0befd4ac26e4,Complete Threat Solution,00000001-c64a-496c-9b10-53674a81ae2a,368218bc-6de8-41e2-a682-ec64d80598ec,0.0,true,false,EP-0001,false
+3a8f0e86-9092-45cc-95fa-7616368dacf0,Service Subscription - Yearly,00000001-c64a-496c-9b10-53674a81ae2a,e6cd6ac4-1a7a-468b-ba20-8a8afde2512c,1300.0,true,false,SERV-ADC-001,false
+3bcbf92d-ba07-494d-a334-b344aa86ac5d,Open Security Controller,00000001-c64a-496c-9b10-53674a81ae2a,0af0761a-2bd8-4abf-a1ad-60c1e8746f79,2780.0,true,false,SS-005,false
+3bdbe837-045a-4501-a208-343ed7b2a274,SSO Training Portal for End Users,00000001-c64a-496c-9b10-53674a81ae2a,be23f46b-386a-4ebe-85a2-a6976356e264,11815.0,true,false,S-SSO-UTP,false
+415a7f5e-545b-4e9f-8b7c-686d2f9f2b25,Intel Xeon E5-2660 v4 2.0GHz,00000001-c64a-496c-9b10-53674a81ae2a,629300b5-ac40-418a-b5e3-0c82d32ee14f,2578.45,true,false,INTEL E5-2660,false
+42389916-12e5-470e-b1e0-8471aaaded0f,Professional Service Hours (Usage),00000001-c64a-496c-9b10-53674a81ae2a,c2dbd576-c061-48c1-bae4-56f8ae151e4c,347.5,true,false,SRV-002-U,false
+42aa5cfd-1fba-4cb3-ae9f-f4e6056a1ca2,TX 600mm/750mm Stabalizer Plate,00000001-c64a-496c-9b10-53674a81ae2a,70bed886-f9fd-47d6-a5a3-6e4e672fecd0,56.99,true,false,BSSA-4303,false
+42b755f7-3534-47af-9aa5-662f16d0c814,"Rack PDU 20A, 120V L5-20",00000001-c64a-496c-9b10-53674a81ae2a,77b92010-e990-43ba-b542-8047c0e3a0f1,2641.0,true,false,PDU-2022,false
+434187b6-e4cc-4aca-8618-c876c340d828,Product A,00000001-c64a-496c-9b10-53674a81ae2a,1c10d8a1-4599-459d-bd6e-c48cb40636a4,599.0,true,false,46372819,false
+43642fec-5257-4a5f-bf54-ac0545a83a07,Wind Generator,00000001-c64a-496c-9b10-53674a81ae2a,3b12a385-d607-4c15-8080-941c19ccae88,549.99,true,false,WT-GEN,false
+46789d2d-026e-479f-b628-4a4421143c8e,Security Certification Training: Basic,00000001-c64a-496c-9b10-53674a81ae2a,b84f44b3-ed6d-4fa6-8d77-ab84f12af3e7,875.0,true,false,SC1,false
+46fc79ac-59ca-4a0a-9772-889aa273fc60,Investigator,00000001-c64a-496c-9b10-53674a81ae2a,42a01804-74b4-47c7-90e1-8ff19e9c86ca,834.0,true,false,ATA-002,false
+48026bdd-d2e8-4359-86eb-60377504857c,Intel X710 Dual Port 10Gb SFP,00000001-c64a-496c-9b10-53674a81ae2a,1fb0795d-f356-40ff-bd73-87ea5232f1f6,1125.9,true,false,BET X710SFP,false
+48c6b84c-7f35-4c31-bfe8-f3ef83897392,No Operating System,00000001-c64a-496c-9b10-53674a81ae2a,fc41c44f-87fc-4afa-80c4-e3866701ad1b,0.0,true,false,CONFIG NOSW,false
+4b6b00a0-4024-4918-a4d9-ddfd73197ac0,Atomic Security Platform,00000001-c64a-496c-9b10-53674a81ae2a,ebf4d0d2-b38b-4ac5-b594-6c7c88e6087e,0.0,true,false,EP-0001,false
+4c018ee4-25a6-4364-83b0-34622d20c1cb,Solar Panels,00000001-c64a-496c-9b10-53674a81ae2a,ace1c471-0bda-4a45-88cd-4dc8099880e8,1725.0,true,false,S-100-ADC-002,false
+4c82b220-dbaa-4cf2-8d83-d623b963fb60,vSphere Desktop,00000001-c64a-496c-9b10-53674a81ae2a,fd71e37d-eb90-4703-8e39-1a33b887e77c,554.61,true,false,VMW-D,false
+4f90b8dc-ba66-4e9b-9f91-24f312dc9ecb,Release Root Beer Syrup,00000001-c64a-496c-9b10-53674a81ae2a,6f1b988c-e110-463d-9513-253895f6d525,39.35,true,false,POP-OT-7,false
+51051acd-27c9-48f1-8800-3a2343369fc5,Universal Data Collection / Indexing/Render,00000001-c64a-496c-9b10-53674a81ae2a,72caaad8-82cf-4e09-99e2-b60d91e99625,0.0,true,false,DC-008,false
+513545cc-e453-41ec-90a3-563d3dad33a9,Solar Panels,00000001-c64a-496c-9b10-53674a81ae2a,37cab895-ab8f-479c-9b07-7e76ef06c8ac,2150.0,true,false,S-100-ADC-009,false
+5296aaa3-74e1-46c8-8173-f90e87b3b8da,Security Suite,00000001-c64a-496c-9b10-53674a81ae2a,ba8d24bd-fd75-4575-938d-290720d608d4,3475.0,true,false,SS-008,false
+54bd1386-317b-45c8-858b-86357786b357,Basic Consulting Plan,00000001-c64a-496c-9b10-53674a81ae2a,39cbb530-e15d-4422-a576-121154a0dcb3,225.0,true,false,LT-TOSH,false
+54d658c5-9bec-48a9-9621-984799b4804e,Enterprise Cloud Storage,00000001-c64a-496c-9b10-53674a81ae2a,4245aeb9-8c33-461a-8909-a34565e25efb,500.0,true,false,CS4,false
+558e2709-0e32-4255-bef7-196805746449,Cable Management Rings (Qty 10),00000001-c64a-496c-9b10-53674a81ae2a,4dfaab4f-63ac-4eaa-8b5c-dc6349b5a898,3614.0,true,false,CMPC-5881,false
+562a8030-910d-4dec-88e3-83c4c204aa36,Roof Fan Tray 750mm - 120V,00000001-c64a-496c-9b10-53674a81ae2a,a2857f28-4248-4791-9434-ed54177a1944,1202.35,true,false,BSSA-4306,false
+5699d4ad-537e-426d-a36f-96a00da9631a,"Rack PDU 16A, 230V, C13 output",00000001-c64a-496c-9b10-53674a81ae2a,14cc4f5a-9653-476d-892a-b72adcb0844f,2578.45,true,false,PDU-2027,false
+572199f8-d5d2-43e7-acdf-27e23265a64e,CBU 4,00000001-c64a-496c-9b10-53674a81ae2a,d4582b10-2ba1-4a60-9f86-f92a2108613e,250.0,true,false,CBU-4,false
+57af8628-c1e5-4b57-b1d6-a23fcdd9039e,Advanced Threat Defense,00000001-c64a-496c-9b10-53674a81ae2a,52835485-bca9-441f-aeed-2123c0f72f22,276.61,true,false,NS-001,false
+57fba3f8-4a8a-43a7-b40f-42395091e937,SSO Admin Training,00000001-c64a-496c-9b10-53674a81ae2a,8f6ec54b-fe71-4256-88e5-a9e8e7fe3f6d,764.5,true,false,S-SSO-ADTR,false
+5960adf6-fa0b-42e8-9050-0ce06f9caa54,Threat Intelligence Reporting Tools,00000001-c64a-496c-9b10-53674a81ae2a,4e0ec7d3-dd1e-4f75-933b-528679e42a98,1390.0,true,false,SM-004,false
+5b08a452-e0cb-4f1a-a32f-5c42f66a2bdc,Windows Server Datacenter - Monthly,00000001-c64a-496c-9b10-53674a81ae2a,666fa70a-75d4-4cd4-a000-89b9372f42ac,416.9861,true,false,WIN SDATA-M,false
+5c6af055-279a-452d-82d3-fb713ea6faf4,Web Gateway,00000001-c64a-496c-9b10-53674a81ae2a,27610a36-d404-4c77-879a-2711ec794647,139.0,true,false,WS-001,false
+5cf7e4ee-87f4-44e4-a944-de42b94fac7b,Power Inverter,00000001-c64a-496c-9b10-53674a81ae2a,cc9c4320-d09b-4a21-a883-afa1163bbf71,2500.0,true,false,H-36378,false
+5ed7fa4f-101f-4cde-92c3-3d9e8bd69fcd,VirusScan Enterprise for Storage,00000001-c64a-496c-9b10-53674a81ae2a,032182b8-96ee-4777-b1f1-609a8cb3a5f2,12.51,true,false,EP-015,false
+5fc34ea0-fe53-4857-8191-27343612fd6b,Sliding Shelf 200lbs,00000001-c64a-496c-9b10-53674a81ae2a,ed98c259-7b98-477a-b8a1-6aa445498e12,619.94,true,false,BSSA-4300,false
+60121216-5d56-4f84-afef-778af9974f63,Version Control Cappuccino,00000001-c64a-496c-9b10-53674a81ae2a,7cc2d886-d96b-4a66-9f73-a168f4c10c22,12.74,true,false,COF-R-7,false
+60aff21c-476d-4fba-86bd-a5c5fc7ffabf,Monthly Maintance Plan,00000001-c64a-496c-9b10-53674a81ae2a,53147686-4d2e-42a0-ab4a-c3d17548fb3f,150.0,true,false,SRV-R-2,false
+60fc9bd8-94a8-453c-97c0-98ee9592bcbc,Customized Implementation,00000001-c64a-496c-9b10-53674a81ae2a,98445128-940a-4749-a737-ec4542648163,75000.0,true,false,IS3,false
+61093e1c-0dd6-45da-9be1-83143db450a1,DLP Endpoint,00000001-c64a-496c-9b10-53674a81ae2a,cac6e0ab-ad27-4e1a-bef0-b052838a4e21,139.0,true,false,DP-006,false
+615a1521-9dc0-49b0-8395-017345d5d9bf,Prod1,00000001-c64a-496c-9b10-53674a81ae2a,0d985f6a-8f2c-4357-8d71-32a4a1bb6d07,10.0,true,false,SKU123,false
+6265d04b-b416-4492-9669-11d6d627da3d,Remote Implementation Support,00000001-c64a-496c-9b10-53674a81ae2a,680f1a3b-c8e9-4e4e-b5ab-709cbf43e2ae,2500.0,true,false,IS1,false
+647b8890-d249-40bd-aa6e-4e89ff75d7a6,Implementation Engineer,00000001-c64a-496c-9b10-53674a81ae2a,f2adddc5-564f-4212-bf87-c820f7d24a23,139.0,true,false,SV-IMP,false
+65633b1d-b17d-4d25-b8e7-e3b67e7365c4,Fuses (Set of 10),00000001-c64a-496c-9b10-53674a81ae2a,b0f25e5d-74af-411a-b7eb-fc2c357fea8b,100.0,true,false,C-100,false
+65673de2-1fba-43af-b337-81c9990c0559,"32GB RDIMM, 2133MT/s",00000001-c64a-496c-9b10-53674a81ae2a,32503f62-ba80-4c40-a47a-6783e9f2cd82,667.2,true,false,MEM 32GB,false
+65aaedbc-c6f6-44ed-b69b-db31e4256bbb,VirusScan Enterprise for Mac,00000001-c64a-496c-9b10-53674a81ae2a,8f7fdc21-26eb-467f-94e9-b7c5292dedf3,11.0505,true,false,EP-025,false
+6680c416-086f-4412-92f5-bb98821efcc9,Cable Containment Brackets,00000001-c64a-496c-9b10-53674a81ae2a,92e06568-04ab-4a55-98de-a0aabf62fbfb,221.01,true,false,CMPC-5884,false
+6748958a-4e99-42e3-96ea-a3027d05b730,Remote Monitoring Subscription,00000001-c64a-496c-9b10-53674a81ae2a,dfc8ff15-502c-4c58-922e-82d743ed5f66,800.0,true,false,R-100,false
+686d4a88-ef4b-4274-9614-7acaf8974c3f,CBU 2,00000001-c64a-496c-9b10-53674a81ae2a,d3ec98e5-5787-4b22-b141-8d96954f82f7,550.0,true,false,CBU-2,false
+68844ea8-f262-4ad8-a4a2-d8f4b4cd0cf3,Quick Deploy,00000001-c64a-496c-9b10-53674a81ae2a,4baea9b2-c069-4ea5-a9e1-18c47f16d8f6,6950.0,true,false,SRV-001,false
+68c25166-ec5c-4687-b14f-2f65e99add11,Network Security Specialist,00000001-c64a-496c-9b10-53674a81ae2a,81500fa3-c647-45f8-8e53-5125fb8c426c,347.5,true,false,SRVR-003,false
+68c8042a-5825-4d9f-8bb4-1b9b3279a82d,MaxShell 14U 600mmx1600mm,00000001-c64a-496c-9b10-53674a81ae2a,dd13b343-c1af-4286-a6e3-cf9b92c628ac,50.04,true,false,BMX-1052,false
+6b3618cb-6cfb-44cc-8b6b-5f5dacbc0f89,Solar Panels,00000001-c64a-496c-9b10-53674a81ae2a,036d3c13-fbfe-476a-8c56-dda36bc0f085,1800.0,true,false,S-100-ADC-003,false
+6b748dab-da38-49ad-9ac0-dead9e0ae7f6,Declarative Decaf,00000001-c64a-496c-9b10-53674a81ae2a,1fda95ef-c9c7-4d4a-8e82-49590fffddc9,12.74,true,false,COF-R-2,false
+6b887d9e-9c5c-4f8c-9992-7d0505d00ee0,"Rack PDU Metered 15A, 120V L5-20",00000001-c64a-496c-9b10-53674a81ae2a,361629ba-941c-4fd6-9b69-4514ac4613b0,0.0,true,false,MPDU-3006,false
+6bc7b8f6-8f9b-44a9-9814-147c37f86b25,Product B,00000001-c64a-496c-9b10-53674a81ae2a,303fee31-ab88-49ac-ba42-e13a983fba36,999.0,true,false,46372818,false
+6d9fc2e9-bb4e-4fc2-8868-59fae2ea44bc,Integrity Control,00000001-c64a-496c-9b10-53674a81ae2a,271315ff-4d1d-456d-9825-a03d336a67db,13900.0,true,false,SS-003,false
+6da2e883-2975-4065-915b-4a4b589ac4ba,Intel Xeon E5-2683 v4 2.1GHz,00000001-c64a-496c-9b10-53674a81ae2a,410fe52e-c535-41aa-920e-7beb2f96d760,3686.28,true,false,INTEL E5-2683,false
+6fc53e95-4955-426d-b400-9aa154eb2144,Installation and Assembly,00000001-c64a-496c-9b10-53674a81ae2a,eaba757d-4d8a-4e35-8ab9-b0db7c05d752,943.81,true,false,INST-1000,false
+716e170f-ac7b-43a0-acdc-9319206fab32,Advanced Server Access,00000001-c64a-496c-9b10-53674a81ae2a,3b559047-9f0b-4d58-ba9b-6df141494649,6950.0,true,false,S-SSO-ASA,false
+7314ef61-8fdf-45a6-816c-dc663c51bfb7,Gold Support,00000001-c64a-496c-9b10-53674a81ae2a,e82cee7e-3b41-4171-bbb9-8fd05b45dba6,5560.0,true,false,SPT-002,false
+73f3e7ff-e022-4510-a5e8-48006140297e,Data Normalization Expert,00000001-c64a-496c-9b10-53674a81ae2a,7145a7f4-77f3-49e5-8207-f62a9a7a8e25,347.5,true,false,SV-DNE,false
+7497d131-ac93-4151-bc81-767b03d7b67a,Service Subscription,00000001-c64a-496c-9b10-53674a81ae2a,fc2f55a4-4a54-4021-9d95-515905c4b9c8,1300.0,true,false,SERV-ADC-000,false
+74c3d3d9-cb12-4f63-8738-9524ed89645e,Version Control Cappuccino,00000001-c64a-496c-9b10-53674a81ae2a,08e7f39a-8a56-4e28-960d-e45b4b94328d,14.99,true,false,COF-OT-7,false
+76127fe8-441c-4b06-8e55-87acaecfa56c,Go-Live Grape Syrup,00000001-c64a-496c-9b10-53674a81ae2a,9f5fb4ce-1aa1-47c2-ad52-52ef8473b849,33.45,true,false,POP-R-5,false
+777c808a-8d0f-4431-bba5-5a0840385107,Small Turbine,00000001-c64a-496c-9b10-53674a81ae2a,27a1e8ed-4b28-4123-a103-c8905993c885,6000.0,true,false,A-100,false
+77fbeafb-69f7-4271-93bf-e80c6a8b6b13,"Battery, High Capacity",00000001-c64a-496c-9b10-53674a81ae2a,df0df29b-f2f7-47d3-9f7e-9ea1cd81014e,2500.0,true,false,B-1000,false
+7801b13d-ea09-4a8b-bb43-7a9efc165c22,SLA Credit,00000001-c64a-496c-9b10-53674a81ae2a,ab7739e5-ef7e-4282-a89d-37247a450687,0.0,true,false,sla-credit,false
+782fcc36-6728-4fbf-b880-9ebfe2f43050,Secure Endpoint Compliance Manager,00000001-c64a-496c-9b10-53674a81ae2a,eef9cc27-8065-45fa-b4d9-c6040eea9f01,500.0,true,false,SM3,false
+78de7502-f89b-4613-a75c-1b2f81f7462d,Embedded Control,00000001-c64a-496c-9b10-53674a81ae2a,468e0318-a603-4312-90cf-834a40f4d948,20.85,true,false,EP-002,false
+79240a0e-528c-433e-8ebf-5777db97442a,"Rack PDU Metered 30A, 120V L5-20",00000001-c64a-496c-9b10-53674a81ae2a,da0a158e-7bd9-4237-8b2a-c0a762b06419,0.0,true,false,MPDU-3005,false
+79604fad-4616-49d9-86bd-effb28911c0a,Product C,00000001-c64a-496c-9b10-53674a81ae2a,139820c0-930f-4610-9c79-4f8c0718b1df,1499.0,true,false,46372817,false
+7a41f961-1281-467c-8a7b-55ac88cdd67d,Personal Cloud Stoarge,00000001-c64a-496c-9b10-53674a81ae2a,b27a8462-2767-4941-90e6-f18493ddd905,1288.0,true,false,CS1,false
+7a68e0a5-3b60-44a1-ad39-95f41d7ce71e,Fixed Shelf 250lbs,00000001-c64a-496c-9b10-53674a81ae2a,10fa3d4c-4de5-485e-a7fc-09676e734d48,1912.084,true,false,BSSA-4302,false
+7ae974de-7556-4f75-a58d-fef55fcb4121,Keurig® K150P - Plumbed Commercial Coffee Maker,00000001-c64a-496c-9b10-53674a81ae2a,eefdb2db-4ad5-4e8e-a8a0-46f990570d45,359.99,true,false,EQP-OT-4,false
+7b58ffdb-f9b9-4d5a-b10e-760c3905dcca,Endpoint Threat Defense,00000001-c64a-496c-9b10-53674a81ae2a,554e8117-134a-4485-ac83-e8d5cd96e154,69.5,true,false,EP-006,false
+7b7ea9c8-40ec-40b5-b5e1-5ee99ba4eda2,Integration Specialist Engineer,00000001-c64a-496c-9b10-53674a81ae2a,4e0aa2c2-864b-44cd-8c7e-25f641ff9652,312.75,true,false,SV-ISE,false
+7bab6d16-f89e-4391-8bb9-74044730784f,Intel X710 Dual Port 10Gb Direct Attach,00000001-c64a-496c-9b10-53674a81ae2a,58967a52-6a76-4bf9-b514-8b13852054ee,619.94,true,false,NET X710,false
+7d811b23-885e-4f72-a6ba-11ac39a48a27,Mounting System,00000001-c64a-496c-9b10-53674a81ae2a,06eb7f3f-a646-40c5-85b7-879ae2ff7a7b,175.0,true,false,C-400,false
+8259e9c9-26e9-4b08-b82e-5b284ab32e44,Fastflow Carbonator,00000001-c64a-496c-9b10-53674a81ae2a,6991bcc0-ac5d-4d48-adb8-a69f330df880,354.99,true,false,EQP-OT-2,false
+837a4208-d030-4c36-8ab4-63ed1de9f337,Personal Password Vault,00000001-c64a-496c-9b10-53674a81ae2a,997afcf9-2e3b-459f-92a8-84dfc3893ea5,819.0,true,false,PV1,false
+8583a074-cfd7-47f6-8eb4-96be4a609fef,Quality Assurance Engineer,00000001-c64a-496c-9b10-53674a81ae2a,d10ba1d0-788d-423e-9fb9-69c7811de20e,208.5,true,false,SV-QAE,false
+866ce017-e813-4391-947e-170b8efee041,Service Subscription - Monthly,00000001-c64a-496c-9b10-53674a81ae2a,5a48d362-4c81-490e-a89a-0e72a0b63283,150.0,true,false,SERV-ADC-002,false
+8693166e-c684-45f2-a92e-9ab56bc782d4,Solar Panels,00000001-c64a-496c-9b10-53674a81ae2a,8a486c32-67c7-4077-b83e-1110ad712800,1600.0,true,false,S-100-ADC-001,false
+86bfe7c8-bd2e-4be3-82ce-7f0c41f30190,Company Wide Training,00000001-c64a-496c-9b10-53674a81ae2a,d3bc7924-c6ca-4ab5-b1b6-52a610d8e0c8,2000.0,true,false,T4,false
+884cab76-0fbe-4d58-97b8-60b0624b622c,Global Threat Intelligence for ESM,00000001-c64a-496c-9b10-53674a81ae2a,3befb174-06f3-4497-8603-198e96a29289,6950.0,true,false,SIEM-007,false
+887b892e-344f-41fe-a496-69cb8620e8dc,CBU 1,00000001-c64a-496c-9b10-53674a81ae2a,3aad1153-8754-4edb-93f5-25204727387b,100.0,true,false,CBU-1,false
+89d0caea-d3bd-4620-b00e-3d8c4b949d88,Large Turbine,00000001-c64a-496c-9b10-53674a81ae2a,7a826b7e-1f2b-4129-9af6-8e52d3277440,10000.0,true,false,A-1000,false
+8ae130d0-1cde-41e3-b46c-4dfe71549a7f,"Battery, Low Capacity",00000001-c64a-496c-9b10-53674a81ae2a,feaf9bce-1fd8-49dc-bcfb-2a4e8e99dfe1,1500.0,true,false,C-45678,false
+8bc5aa19-5e2f-4287-a886-05348bf79484,Energy Bundle,00000001-c64a-496c-9b10-53674a81ae2a,102d45ae-e345-40c6-9bd2-e8674b575b0a,11425.0,true,false,EB-5000,false
+8d8fd0d1-6322-4c7c-bb6b-3e31cd0c7638,Milestone Deliverable,00000001-c64a-496c-9b10-53674a81ae2a,b57497ee-6358-4211-bb68-874023c5b4e3,6950.0,true,false,SRV-MST,false
+8e180b55-03e2-4e1d-a21a-821868be91e3,Declarative Decaf,00000001-c64a-496c-9b10-53674a81ae2a,d363733d-1ca3-43e7-83e6-ced43b8d1ec9,14.99,true,false,COF-OT-2,false
+8e8b84e7-03af-4224-9c50-63519a5b1a3b,Maintenance Contract,00000001-c64a-496c-9b10-53674a81ae2a,8ca6b261-7887-414e-b9f7-3fe106ac941d,0.0,true,false,M-1000,false
+8ed1b0df-964e-43e0-b375-9428891cb75c,"Rack PDU Metered 20A, 120V L5-20",00000001-c64a-496c-9b10-53674a81ae2a,c4055bd7-8092-4467-901a-617be6e8c121,351.67,true,false,MPDU-3004,false
+8fef3e77-65f8-4310-9d2d-61d6fc4e58f1,Project Manager,00000001-c64a-496c-9b10-53674a81ae2a,91702c75-91fd-43f5-a62d-6d3be80bbe18,417.0,true,false,SRVR-001,false
+90945e6d-6e60-459a-88c8-a2ea491fcca0,Database Event Monitor,00000001-c64a-496c-9b10-53674a81ae2a,2742320a-f140-4a73-864b-27b73a9d085c,16680.0,true,false,SIEM-003,false
+90be2b6e-6fd4-42bd-a2a3-507cb469cb9f,8TB 7.2k RPM Self-Encrypting NLSAS,00000001-c64a-496c-9b10-53674a81ae2a,1ad13ef7-d7a3-4e81-ae11-ceb987795e77,1559.58,true,false,HD 8TBSE,false
+91985093-71af-4189-8587-0ebc911d0d16,Enterprise Log Manager (Evergreen),00000001-c64a-496c-9b10-53674a81ae2a,30fde970-d77a-4473-bca7-490b6651c26a,139.0,true,false,SIEMEG-004,false
+9216e5d2-fe39-4444-a4ce-beeb7e3bfa70,Secure Event Manager,00000001-c64a-496c-9b10-53674a81ae2a,b1803fea-0576-4826-9ba7-5dbca037cc05,1100.0,true,false,SM2,false
+9242457a-6272-47bf-8733-522ff8235efa,Program Director,00000001-c64a-496c-9b10-53674a81ae2a,15e8ecab-459b-4600-bff0-b0ae3d7078f2,729.75,true,false,SV-PD,false
+934dc2d2-6af8-450d-8f09-7f8142233c0a,Energy Meter,00000001-c64a-496c-9b10-53674a81ae2a,d7f87947-b1cd-4f4c-a0fc-4e0f469d29a3,500.0,true,false,E-1000,false
+945b93de-9d96-4049-8c97-2223b7aa0bf5,Additional Cloud Storage,00000001-c64a-496c-9b10-53674a81ae2a,4dc1e108-af54-4512-85d8-766bafca77a4,700.0,true,false,CS6,false
+96a59884-1cae-4ce1-b5aa-eda706b91919,SafeLog Secure Access VPN,00000001-c64a-496c-9b10-53674a81ae2a,c1b52d49-c41e-4238-8340-6a410467b42c,800.0,true,false,EP1,false
+97809638-03d1-4f9a-82bf-5b2c3d1d0ebc,Service Subscription - One-Time,00000001-c64a-496c-9b10-53674a81ae2a,330ba3ac-efb4-47f5-9688-6b8f13c92dc8,1700.0,true,false,SERV-ADC-003,false
+979c03e4-0cfd-4cac-ba6e-3258e70c1b15,Application Data Monitor,00000001-c64a-496c-9b10-53674a81ae2a,cfe06568-9714-4fb5-aa1f-4985fd589dc3,139.0,true,false,SIEM-002,false
+995b4022-3a76-44ad-8382-cb77fd616778,Module Extension Engineer,00000001-c64a-496c-9b10-53674a81ae2a,8f3f8a1b-5390-4e35-8c7a-0c37d5a7fa22,729.75,true,false,SV-MEE,false
+9ba1b1b1-5ca0-4f21-9197-ade268e420fa,Network Penetration Tests,00000001-c64a-496c-9b10-53674a81ae2a,a975036f-24c6-46aa-98fd-f1ac5b2d6094,1.39,true,false,SM-005,false
+9d32f5ea-4eed-4126-ad93-dfa43631ed2f,Professional Services Scope of Work,00000001-c64a-496c-9b10-53674a81ae2a,b1aa0e6d-dd6f-4799-b5ef-05678a8481b3,19460.0,true,false,SV-SOW,false
+9ddc7d47-3246-4955-8495-4780e2ad9f34,Maxspace Rack Enclosure,00000001-c64a-496c-9b10-53674a81ae2a,22671d91-bfd3-4102-bedc-0c881b3d21e3,3352.68,true,false,MAXS-1014,false
+9e9a5cf9-182d-4204-9cec-52c1824296ca,Agile Ginger Ale Syrup,00000001-c64a-496c-9b10-53674a81ae2a,eee92cc6-a06c-40ad-bd38-476482f9d4bf,39.35,true,false,POP-OT-8,false
+9fd2afb8-3e93-49f4-a991-1b883be15103,Business Password Vault,00000001-c64a-496c-9b10-53674a81ae2a,7360a630-74f0-4762-9668-d9b21d227123,50.0,true,false,PV2,false
+a0254e38-2638-4aa7-b99a-05337045b10f,"Rack PDU 14.4kW, 208V, C13 output",00000001-c64a-496c-9b10-53674a81ae2a,0678d064-2ae5-49ba-93ef-2d8290d22b9a,2047.47,true,false,PDU-2028,false
+a0db1942-d1fc-44fd-9177-49c2f48d70e9,Advanced Correlation Engine,00000001-c64a-496c-9b10-53674a81ae2a,d87f54d5-af43-4e4f-9a0d-7be2b6b5cfca,20850.0,true,false,SIEM-001,false
+a14560c4-044a-48a9-a5fa-fd6f34a29f46,"Rack PDU 30A, 120V L5-20",00000001-c64a-496c-9b10-53674a81ae2a,09f8c65b-cc8a-4863-ab03-3acb6d723e32,4029.61,true,false,PDU-2023,false
+a2584e08-8e56-4471-b4ad-646e17f796d1,Data Center Security Firewall,00000001-c64a-496c-9b10-53674a81ae2a,081d89b7-cf96-409a-94cf-b5362cb0f79a,300.0,true,false,N4,false
+a2ae6181-7710-438b-b55a-a54418f78f05,Data Control Manager,00000001-c64a-496c-9b10-53674a81ae2a,d04b4a98-53e0-467d-844a-74294cf0613f,139.0,true,false,DP-004,false
+a355a5bc-2df2-4edb-aaa0-962bf889135e,Enterprise Security Firewall,00000001-c64a-496c-9b10-53674a81ae2a,b48256ac-cbd0-4bc3-adfa-4859bea6978c,400.0,true,false,N3,false
+a4b4bc06-3c0e-4ec9-bbc6-ffd51a645193,Host Intrusion Prevention for Server,00000001-c64a-496c-9b10-53674a81ae2a,84289a20-2834-47b7-bcd0-debfa1866b50,24325.0,true,false,SS-002,false
+a522f542-0d22-4d00-8659-c9f9ca6017f0,T&E Suite Admin License,00000001-c64a-496c-9b10-53674a81ae2a,501f52b8-3975-4b1e-91a6-b4c7874163e1,499.0,true,false,TE14,false
+a539bf3e-00f9-4a1c-9fe8-5e0b7835bfc3,C13 to C14 Power Cable 3',00000001-c64a-496c-9b10-53674a81ae2a,de84b64d-71f6-4bc6-ac87-6586a9d67be8,764.5,true,false,CMPC-5887,false
+a678767d-29b7-44dc-9fa9-706452eee9d2,"Rack PDU 15A, 120V L5-20",00000001-c64a-496c-9b10-53674a81ae2a,ef40be7e-3e24-4bfe-b679-a97540bdbc36,2488.1,true,false,PDU-2024,false
+a6ec0f3d-a970-44cd-b413-7ebc07024240,Platinum Consulting Plan,00000001-c64a-496c-9b10-53674a81ae2a,8de058a6-52c3-44ee-bd62-392b4e22daf5,25000.0,true,false,PS3,false
+a96fbfa4-685c-4b39-b85e-3371dc4ebdcd,Shipping Charge Debit,00000001-c64a-496c-9b10-53674a81ae2a,6380d58f-4556-432c-a280-291afa220830,0.0,true,false,ship-debit,false
+a9c9dd7e-9fef-4838-ba69-de8acd70df65,Labor,00000001-c64a-496c-9b10-53674a81ae2a,fabfca28-7c3e-4f26-ac84-1706d56a9edb,150.0,true,false,L-1000,false
+a9eb7aca-eaf9-4b53-be45-2e02f327f3a3,On-Site Implementation Support,00000001-c64a-496c-9b10-53674a81ae2a,15b07286-eb1a-41a2-96e4-f6ea1fcf7334,5000.0,true,false,IS2,false
+aa484816-df6e-4984-b56e-4358294c6f4c,Vulnerability Manager for Databases,00000001-c64a-496c-9b10-53674a81ae2a,0ac261ee-a44c-4d63-8676-31b43965cbbd,20850.0,true,false,DBS-002,false
+acd0829e-2ca3-43e9-8158-4f17ac7764b8,Performance Optimization,00000001-c64a-496c-9b10-53674a81ae2a,40e74082-78ba-4b7e-9f3a-bf6cad99d360,500.0,true,false,L-100,false
+ace1dc7c-fdd1-40b9-b0c7-9b081a8ac984,Event Receiver,00000001-c64a-496c-9b10-53674a81ae2a,ce016a7f-0216-4031-8cce-f5f7b0389ef9,278.0,true,false,SIEM-006,false
+aefb4283-6a36-4157-b4db-ba8b50f45dc4,Single Sign On Suite,00000001-c64a-496c-9b10-53674a81ae2a,bd5fd219-524b-4fc8-881a-59741abbe4f0,0.0,true,false,S-SSO-SAAS,false
+af4aca90-4ef1-48b6-ba05-5c1cae758c01,Org-to-Org Orange Syrup,00000001-c64a-496c-9b10-53674a81ae2a,c9fb3c35-57b1-4676-8062-228cb0ef2ea5,33.45,true,false,POP-R-6,false
+b03fe8c4-54f6-4fc2-9fb8-a019033478f0,Intel Xeon E5-2667 v4 3.2GHz,00000001-c64a-496c-9b10-53674a81ae2a,a341aeac-ddee-492a-ba55-ead615605646,2130.87,true,false,INTEL E5-2667,false
+b1134bb9-41f4-42fa-9a5f-e749b3d83d76,Business Analyst,00000001-c64a-496c-9b10-53674a81ae2a,60d6458b-ef4b-4fff-960e-2bfe5d8fdfe9,278.0,true,false,SRVR-002,false
+b1a4520b-adb2-48fc-b4b7-0276377076df,Endpoint Security Specialist,00000001-c64a-496c-9b10-53674a81ae2a,88e39a3e-cf50-4cec-9c26-0a6485250fee,347.5,true,false,SRVR-004,false
+b3658ff5-33d4-47bf-80d8-1e364600425d,Enterprise Security Manager (Evergreen),00000001-c64a-496c-9b10-53674a81ae2a,a78cb302-ff7b-4b90-b2d8-71dc5cf53ecd,33360.0,true,false,SIEMEG-005,false
+b3d7baa6-1bf9-4dc8-86d9-04d71ce77520,Pumpkin Sandbox Latte,00000001-c64a-496c-9b10-53674a81ae2a,c1b03fc1-5a52-45ca-8cd1-15d3e14bbf07,12.74,true,false,COF-R-3,false
+b474f747-10c3-4231-926a-de21598209e7,Security for Microsoft SharePoint,00000001-c64a-496c-9b10-53674a81ae2a,98d54bb6-19db-433a-9518-21cb72a6b296,278.0,true,false,EP-011,false
+b5baf624-72d6-4c67-8038-4cfcb730ed57,Host Intrusion Prevention for Desktop,00000001-c64a-496c-9b10-53674a81ae2a,f1b99a55-0fe5-4e43-aca9-a55652398322,34.75,true,false,EP-010,false
+b8410be0-7917-43d2-9810-f69d91994084,Report Exporting Tools insta,00000001-c64a-496c-9b10-53674a81ae2a,69531477-94de-4118-949e-c45ea0f67b73,9730.0,true,false,S-SSO-REPX,false
+ba50cc72-723c-45d6-a499-603a837a0341,Solar Panels,00000001-c64a-496c-9b10-53674a81ae2a,e125720d-6d30-4853-979f-d38d1b79f4e2,2125.0,true,false,S-100-ADC-008,false
+bbc15cc7-d18e-4f8a-8a25-b137c8de8aca,Product1,00000001-c64a-496c-9b10-53674a81ae2a,cd23907b-e579-4393-a640-f2ad2cc4ce28,100.0,true,false,123,false
+bcc4eadc-5125-4d31-9f74-14833f040991,CBU 5 - Bundle,00000001-c64a-496c-9b10-53674a81ae2a,39042ef4-5e85-4ce1-a490-a9feb360fd3c,1575.0,true,false,CBU-5,false
+bcd41cac-6c70-4dac-b9c1-44a96cc28f4a,ePO Deep Command,00000001-c64a-496c-9b10-53674a81ae2a,5ea940f0-f4f0-4f29-b2c3-7bf07a445194,2780.0,true,false,EP-009,false
+bd847c7c-742b-429b-8200-97cb53c8e783,Solar Panels,00000001-c64a-496c-9b10-53674a81ae2a,76d3c77e-e8f6-41a6-9368-7684a41fe82c,2190.0,true,false,S-100-ADC-010,false
+bf83b82b-3b3b-4aee-ad71-26b24055f072,Solar Panel,00000001-c64a-496c-9b10-53674a81ae2a,748c7531-3944-4427-98a8-b77554424ff6,4500.0,true,false,S-100,false
+c3025000-9892-4947-ba17-f88cd1050540,ePolicy Orchestrator,00000001-c64a-496c-9b10-53674a81ae2a,5f27ee5a-6702-4e2a-a2ee-b8ff71b7932e,16680.0,true,false,SM-001,false
+c309d2fb-88f8-4aa6-a4fc-c6334924086a,Installation Services,00000001-c64a-496c-9b10-53674a81ae2a,7ee10cc9-e534-4ca4-b11e-0ea72ce0492c,1100.0,true,false,INST-100,false
+c321be5e-7bcb-4a87-92bd-33bb3b86f811,MaxShell 6U 600mmx870mm,00000001-c64a-496c-9b10-53674a81ae2a,cd2999a5-9ae8-4019-8d4a-9228b8d6ca92,40.31,true,false,BMX-1051,false
+c37a9ded-b038-4539-a122-b5109573ace5,Enterprise Plus Cloud Storage,00000001-c64a-496c-9b10-53674a81ae2a,861fe926-b4ac-4b80-b9e7-9547e025f227,450.0,true,false,CS5,false
+c3fc24ff-0e80-4bc9-aa23-c7773afbea91,Application Protection Block,00000001-c64a-496c-9b10-53674a81ae2a,1b738ae6-43ef-4cbd-984a-bad4d8eda892,1390.0,true,false,S-SSO-APB,false
+c41402c9-198a-4645-9d6a-9982470bef2a,"16GB RDIMM, 2133MT/s",00000001-c64a-496c-9b10-53674a81ae2a,0de99987-1913-4192-8df4-afa8c7332a96,351.67,true,false,MEM 16GB,false
+c5967de8-0241-467a-946e-551996bd9463,SSO Suite Admin License,00000001-c64a-496c-9b10-53674a81ae2a,acaae627-9ca6-456f-b755-fae9be1a7741,111.2,true,false,S-SSO-ADM,false
+c5a0ea7f-8127-4c5f-8724-2115add09033,Secure Security Manager,00000001-c64a-496c-9b10-53674a81ae2a,175a4a37-9173-46a3-a984-3f0265bd2b1d,900.0,true,false,SM4,false
+c7239707-c3ac-431d-bfd1-021541b0353f,Product2,00000001-c64a-496c-9b10-53674a81ae2a,3d973b42-23bf-455c-8b50-b7083ae330d5,200.0,true,false,234,false
+c831ca63-10e1-4043-8441-64553907420a,Deploy Dew Syrup,00000001-c64a-496c-9b10-53674a81ae2a,e2cf4b58-ed6f-46d1-9ce1-b119b466af9c,33.45,true,false,POP-R-3,false
+c8cdcf2e-c026-40c6-a328-40bad7c437fc,Org-to-Org Orange Syrup,00000001-c64a-496c-9b10-53674a81ae2a,fb2fc128-2999-4f0b-9b84-ce9838c9a4cf,39.35,true,false,POP-OT-6,false
+ca67f1be-5431-4461-b311-44225d971bce,Blanking Panel,00000001-c64a-496c-9b10-53674a81ae2a,939521a1-12ca-430a-ac4a-c4aba766e237,1069.605,true,false,BSSA-4298,false
+cb873c7b-17db-4cd4-becd-ecca2fcd03e0,8TB 7.2k RPM NLSAS,00000001-c64a-496c-9b10-53674a81ae2a,ea945125-31c8-4b6e-a4e9-57c6f47d017b,1202.35,true,false,HD 8TB,false
+cc770c65-3b14-49b7-9283-6d8a46d5c345,Additional Application Fee,00000001-c64a-496c-9b10-53674a81ae2a,55271950-1a25-4384-b977-948fbf03b440,1.7375,true,false,S-SSO-AAF,false
+ceda9171-d73b-4631-b2fa-e91498572660,Implementation Engineer,00000001-c64a-496c-9b10-53674a81ae2a,f64dd6bb-0b95-4dee-84bc-0296fb5e2708,139.0,true,false,SV-IMP,false
+d001fdd2-a76c-4fbc-b83c-d22615daff3b,Professional Service Hours,00000001-c64a-496c-9b10-53674a81ae2a,6328e1c8-0268-4f59-a088-82c770a616dd,347.5,true,false,SRV-002,false
+d194b6b3-d9f5-407d-948d-91fa22c8897a,DLP Prevent,00000001-c64a-496c-9b10-53674a81ae2a,e63e2b68-6a3c-474c-91d0-7e4d2b5785d6,139.0,true,false,DP-008,false
+d26c1ae1-29ce-4d39-8f89-92632ea86485,Data Normalization Expert,00000001-c64a-496c-9b10-53674a81ae2a,ebab7ce7-20ee-42e3-8044-73744036bdda,347.5,true,false,SV-DNE,false
+d337211f-18f8-4f6e-b157-c2369fb2319e,Cloud Threat Detection Test,00000001-c64a-496c-9b10-53674a81ae2a,e10e1787-ab86-4e47-8694-5fa63788e108,2780.0,true,false,ATA-001,false
+d389cd33-7efb-40de-bff6-cfaead6df27b,DLP Discover,00000001-c64a-496c-9b10-53674a81ae2a,dac419c5-358f-4acf-bc9d-6a56a7242ef3,139.0,true,false,DP-005,false
+d3fa06cf-9c59-4ed1-9663-80fb05795b1a,PowerSlide R750 Rack Server,00000001-c64a-496c-9b10-53674a81ae2a,77701659-ba34-4cd2-b89b-134f3a9ba1d4,4110.23,true,false,PS-R750,false
+d45c7047-27c4-47cf-b02f-627291488522,VirusScan Enterprise for Linux,00000001-c64a-496c-9b10-53674a81ae2a,87d94f83-8ceb-4666-982f-9979034c0044,6.95,true,false,EP-014,false
+d6b2d738-b2ec-4f07-9fff-942abd1201d4,"Rack PDU 20A, 230V C20 input C1",00000001-c64a-496c-9b10-53674a81ae2a,7475f6a7-f63b-465f-b71a-938500de55e9,3686.28,true,false,PDU-2025,false
+d6b6f031-0273-4457-9426-858e7bc0cec0,Application Control Latest,00000001-c64a-496c-9b10-53674a81ae2a,8176190c-a9b9-4002-b55f-38296f819cc2,695.0,true,false,AC-002,false
+d6f26a90-0000-40aa-bfc9-3200f52ba3e4,Agile Ginger Ale Syrup,00000001-c64a-496c-9b10-53674a81ae2a,78672f1a-9542-486f-9e75-d649136c8d53,33.45,true,false,POP-R-8,false
+d6f726b8-5c2a-4607-8248-279fde3d3c89,Keurig® K-2500® Plumbed Commercial Coffee Maker,00000001-c64a-496c-9b10-53674a81ae2a,0242f864-c8a0-44fe-a880-1f9f72df5474,449.0,true,false,EQP-OT-5,false
+d7f842dd-6cd2-4214-b92d-753d7ed28455,Application Protection Unlimited,00000001-c64a-496c-9b10-53674a81ae2a,0826cb55-6b1a-43a8-a3d7-014a405723e4,8340.0,true,false,S-SSO-APU,false
+d8976146-c41a-43c3-83a4-6c212e496fe0,Scoped Services Project,00000001-c64a-496c-9b10-53674a81ae2a,9f798fdb-26c2-475b-9bf5-b73dfa661ed8,0.0,true,false,SRV-003,false
+d9fe6cf8-09e1-4885-a06e-f78e8c45b41c,vSphere Enterprise,00000001-c64a-496c-9b10-53674a81ae2a,89a3caf8-3b7d-4939-986e-e2fc73d28a0a,415.61,true,false,VMW-E,false
+db3df705-7bf2-42ee-aa27-576659a55ef4,Prodly Cola Syrup,00000001-c64a-496c-9b10-53674a81ae2a,29ce6e39-bcf6-40f1-9e52-1709bff25f64,33.45,true,false,POP-R-1,false
+db5f1caf-2467-4723-ac76-7866d5c42fa8,Professional Services Hours (Blended Rate),00000001-c64a-496c-9b10-53674a81ae2a,1693328a-8ec0-4b73-acbd-25c23066f01e,312.75,true,false,SV-PSH,false
+dc783ab6-b88a-498e-9fd9-46ca3851740a,Enterprise Security Manager,00000001-c64a-496c-9b10-53674a81ae2a,3f14ba5e-dccb-4636-81d8-c069c4f3466f,27800.0,true,false,SIEM-005,false
+deba2e9e-231f-418f-99bc-a0a41dcdd60c,Web Gateway Cloud Service,00000001-c64a-496c-9b10-53674a81ae2a,c310c0ac-eed6-470d-a748-76460e9c4ba8,278.0,true,false,WS-002,false
+e07e7a6b-5e91-4224-9298-3766984afefc,SSO Suite Reporting License,00000001-c64a-496c-9b10-53674a81ae2a,3b2e0266-6931-45df-b84e-61390226a8f0,34.75,true,false,S-SSO-REP,false
+e108df26-3800-4556-8dfa-d26d5b0c4cf5,Software Maintenance,00000001-c64a-496c-9b10-53674a81ae2a,c4dce3ad-07d9-4bbf-936f-ea957bc633f7,2502.0,true,false,SUPP-2000,false
+e15d088b-10bc-4ea8-b700-73ef4574ba0e,6-25 User Training,00000001-c64a-496c-9b10-53674a81ae2a,4de4f9a9-e721-4095-9989-7406a1fd1f5d,5000.0,true,false,T1,false
+e2ff626f-e6bd-4c8d-8f8d-4a7441ab4c99,Quality Assurance Engineer,00000001-c64a-496c-9b10-53674a81ae2a,140f4625-d13c-4734-85dc-11a1f3dafae3,208.5,true,false,SV-QAE,false
+e3038ce8-b153-4995-960b-379d8b169f00,Late Fee,00000001-c64a-496c-9b10-53674a81ae2a,17b9cfbe-117b-479c-a9ee-21e98d57802d,0.0,true,false,late-debit,false
+e34ce1eb-fd91-400a-9719-019778df790b,Quick Start Enablement,00000001-c64a-496c-9b10-53674a81ae2a,211553a1-671e-46c1-a6b9-77546c0c5310,6950.0,true,false,SV-QSE,false
+e378dde2-b093-440f-ae42-7d6f89576977,Public Cloud Server Security Suite,00000001-c64a-496c-9b10-53674a81ae2a,4d094c4e-fdb2-4746-aa56-14e157e9eab3,34750.0,true,false,SS-007,false
+e3cda398-7df6-48ab-afb2-db39e283fed4,10 Valve Push Button Countertop Ice/Beverage Dispenser,00000001-c64a-496c-9b10-53674a81ae2a,b6fb23cc-c1f3-4e95-bcdb-82e8d680a871,3189.0,true,false,EQP-OT-1,false
+e471cc83-1a28-4e77-bea4-3b226e33df98,Vulnerability Testing: Omega,00000001-c64a-496c-9b10-53674a81ae2a,5c900ed0-9648-4152-b45e-4e33e922088b,750.0,true,false,VT1,false
+e48b5fc3-b115-471d-a7bb-e62488ddbad3,Customizable User Experience,00000001-c64a-496c-9b10-53674a81ae2a,2b598282-562a-4c53-adf9-dc61406933b5,11120.0,true,false,S-SSO-UX,false
+e4f908f9-1a6f-40d1-97a3-5bfa011db726,Coffee Starter Bundle,00000001-c64a-496c-9b10-53674a81ae2a,35562ae7-c8e6-4e5d-b49c-d4643c6876b0,0.0,true,false,CSB-B,false
+e5a4b390-7182-467a-a652-1ef8b93d0ce8,Red Hat Enterprise Linux,00000001-c64a-496c-9b10-53674a81ae2a,442c633b-cf5c-4252-b10c-3b3768071d85,0.0,true,false,REDHAT,false
+e608adad-0535-4344-9420-0b116908fd46,"8GB RDIMM, 2133MT/s",00000001-c64a-496c-9b10-53674a81ae2a,89e1188e-7ba8-4ad6-84fd-4d05f5b196ee,241.86,true,false,MEM 8GB,false
+e92f6114-aede-47c7-a332-624c53d52ba9,Project Manager,00000001-c64a-496c-9b10-53674a81ae2a,d766b4fb-cb42-4530-8f2a-02ab7d44159c,236.3,true,false,SV-PMN,false
+eb0490df-ba60-42b2-b211-299c8cb5e321,Silver Hardware Maintenance,00000001-c64a-496c-9b10-53674a81ae2a,00f243c2-da81-46e7-87ea-21566cab4f57,3336.0,true,false,SUPP-1000,false
+ee9b981a-ff6c-4e99-89d3-b248f028362d,TX Bolt-Down Kit,00000001-c64a-496c-9b10-53674a81ae2a,dff05fb6-114d-4103-a72d-c8b70fc0dc58,56.99,true,false,BSSA-4304,false
+ef766059-ec7d-4914-bbab-1ec393b5cc77,VirusScan Enterprise,00000001-c64a-496c-9b10-53674a81ae2a,551347fb-1d46-4ed0-a2c3-9a0cd1912a2d,137.61,true,false,EP-013,false
+f0290e32-a474-46fd-b16e-07c6e9760754,Starter Kit,00000001-c64a-496c-9b10-53674a81ae2a,d201fce2-ddf7-48dc-aed7-322293dcbda8,12500.0,true,false,A-5000,false
+f049008d-368a-4981-ba7e-dc80e9f21570,Windows Server R2 2012,00000001-c64a-496c-9b10-53674a81ae2a,db405bcc-d020-44c3-aadc-7245a98a504d,926.4211,true,false,WIN S2012,false
+f0526b10-9864-4c6f-af51-bff6f23fc85a,L5-20 Input Power Cable 8',00000001-c64a-496c-9b10-53674a81ae2a,8b69a924-a3ae-414c-9f62-a88bd98b0b99,16.68,true,false,CMPC-5892,false
+f0d0db1e-14aa-49ad-9eb2-37c88729fe15,MaxShell 10U 600mmx1200mm,00000001-c64a-496c-9b10-53674a81ae2a,68bdc9c9-349f-4dfc-a14b-461f4d79d662,18.07,true,false,BMX-1053,false
+f14ee704-5ded-4471-8bc5-4a0465cd80e6,Second Stage Turbine Blade,00000001-c64a-496c-9b10-53674a81ae2a,eba38caf-edd1-48fd-9037-d19677ca8de5,999.99,true,false,SSTBLD,false
+f16ad4e3-ab64-457a-af92-6c384e551172,4TB 7.2k RPM NLSAS,00000001-c64a-496c-9b10-53674a81ae2a,36143046-92b6-4b96-a875-2c143a69d772,931.3,true,false,HD 4TB,false
+f1a3ea41-dcec-45b4-8be9-72963a1ab9e4,Go-Live Grape Syrup,00000001-c64a-496c-9b10-53674a81ae2a,7628e317-53ef-497f-bd3f-12e30faf208f,39.35,true,false,POP-OT-5,false
+f375620c-822f-4116-bbbb-07e0ed5a7f6e,Low-Code Lemon-Lime Syrup,00000001-c64a-496c-9b10-53674a81ae2a,6e93d63d-e6fd-4722-b823-72104789aaa9,33.45,true,false,POP-R-4,false
+f48d1cc3-21a4-4ad1-b5e1-7c75a644ec97,Network Security Platform,00000001-c64a-496c-9b10-53674a81ae2a,43c7ca77-25c9-4e0f-b554-552ac0680748,554.61,true,false,NS-002,false
+f51e44ab-8233-4199-94a6-8979aa6d94e5,1-5 User Training,00000001-c64a-496c-9b10-53674a81ae2a,36def804-cfc6-41a9-a3ad-f57ac864522f,1000.0,true,false,T0,false
+f524f5b3-e2f0-481c-b948-d2875411531c,Data Control Manager (MDQ),00000001-c64a-496c-9b10-53674a81ae2a,699c694a-9a65-4888-8d0a-76ebc95ad8bb,139.0,true,false,DP-004,false
+f63ebc1c-43a3-4cc5-9b9b-29198a384445,KCup Recycling Program,00000001-c64a-496c-9b10-53674a81ae2a,b3e8f272-20c7-4b08-808b-4b731feebd6f,89.96,true,false,SRV-R-1,false
+f715c32d-251b-453d-a8a7-eb0b28fe75e4,Security for Email Servers,00000001-c64a-496c-9b10-53674a81ae2a,16ab197e-c763-4d81-8ab8-d95e3d349f37,1390.0,true,false,AS-001,false
+f82a5b3c-730b-4c1a-a348-d6de7a29b649,Soda Starter Bundle,00000001-c64a-496c-9b10-53674a81ae2a,3b06b04d-794e-45b3-9d8d-2e40ae6d1a1f,0.0,true,false,SSB-B,false
+f88fdcd0-9fa9-4a00-9d9a-ce463d2a8844,Business Cloud Storage,00000001-c64a-496c-9b10-53674a81ae2a,1b4b5c60-78b1-4314-b45e-2f8ccd498fa0,249.0,true,false,CS2,false
+f9d158cf-9d8a-4c3d-ad08-a6aae5e2041a,25+ User Training,00000001-c64a-496c-9b10-53674a81ae2a,cfe67828-0c61-41c4-b525-e4d0f1f64b97,7500.0,true,false,T2,false
+fa8c26d9-2581-4416-80e4-7359e074351d,Release Root Beer Syrup,00000001-c64a-496c-9b10-53674a81ae2a,347607cb-aa2e-4d6e-95e2-aa5b7b5372ac,33.45,true,false,POP-R-7,false
+faedce05-b9eb-4b6e-9d28-46a6918005f1,SiteAdvisor Enterprise,00000001-c64a-496c-9b10-53674a81ae2a,90f4bec5-0f80-4ad5-989b-b71859cf56bc,278.0,true,false,EP-012,false
+fd95f7c2-ec1b-46fa-b627-b4c156cffe7f,Virtual Network Security Platform,00000001-c64a-496c-9b10-53674a81ae2a,8d1eb7ad-2269-44c3-a5e0-bdda9438a861,695.0,true,false,NS-003,false
+fe82fd3a-c5b5-44c5-8f51-cb4f52712b90,Data Center Security Suite,00000001-c64a-496c-9b10-53674a81ae2a,6e6cbad0-cfba-47c4-87d7-057a013b0712,27800.0,true,false,DBS-001,false
+fed57fb5-db8e-4f4f-bf89-5aae35097d07,Module Extension Engineer,00000001-c64a-496c-9b10-53674a81ae2a,01f869a0-07f1-4f83-ab54-7b64438528a2,729.75,true,false,SV-MEE,false
