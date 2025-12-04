@@ -1,0 +1,10 @@
+Guid,Name,IsActive,IsArchived,Description,IsStandard
+00000001-c64a-496c-9b10-53674a81ae2a,Standard Price Book,false,false,#N/A,true
+20982419-43dd-4f4c-9be4-37ab134afc57,Cirrus Silver Price Book,true,false,#N/A,false
+2ae8147d-07cc-4db0-aa86-b3814deae4cb,Global Price Book*,true,false,This is the Price Book for all regions.,false
+48586b5e-efaf-4792-a15c-fe4d6051de6f,Cirrus Price Book,true,false,#N/A,false
+6405e688-2230-45a1-8e82-5d82e6157492,Pricebook 1,true,false,any,false
+8f60aaa2-6afc-4290-a32b-0669277f125c,Recommended Retail Price,false,false,RRP - No Discount,false
+ac294c71-552d-4ec7-a80a-bb89e7f1b777,Test Pricebook,true,false,#N/A,false
+b1359a9f-55f1-4f59-938f-3893e3cf9dc0,2,true,false,#N/A,false
+b4b97aa1-6f59-4cec-8286-2cf2ed416c24,CPQ Products,true,false,Products to demonstrate CPQ,false
